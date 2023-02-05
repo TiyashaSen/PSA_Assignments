@@ -1,0 +1,2057 @@
+2023-01-28 00:29:35 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 100 runs
+2023-01-28 00:29:35 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:29:35 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-28 00:29:35 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 100 runs
+2023-01-28 00:29:35 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:29:35 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-28 00:29:35 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 100 runs
+2023-01-28 00:29:35 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:29:35 INFO  TimeLogger - Normalized time per run (n^3):  .00
+2023-01-28 00:29:35 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 50 runs
+2023-01-28 00:29:35 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:29:35 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-28 00:29:35 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 50 runs
+2023-01-28 00:29:35 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:29:35 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-28 00:29:35 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 50 runs
+2023-01-28 00:29:35 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:29:35 INFO  TimeLogger - Normalized time per run (n^3):  .00
+2023-01-28 00:29:35 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 20 runs
+2023-01-28 00:29:35 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:29:35 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-28 00:29:35 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 20 runs
+2023-01-28 00:29:35 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:29:35 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-28 00:29:35 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 20 runs
+2023-01-28 00:29:35 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:29:35 INFO  TimeLogger - Normalized time per run (n^3):  .00
+2023-01-28 00:29:35 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10 runs
+2023-01-28 00:29:35 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:29:35 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-28 00:29:35 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10 runs
+2023-01-28 00:29:35 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:29:35 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-28 00:29:35 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 10 runs
+2023-01-28 00:29:35 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:29:35 INFO  TimeLogger - Normalized time per run (n^3):  .00
+2023-01-28 00:29:35 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 5 runs
+2023-01-28 00:29:35 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:29:35 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-28 00:29:35 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 5 runs
+2023-01-28 00:29:35 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:29:35 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-28 00:29:35 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 5 runs
+2023-01-28 00:29:35 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:29:35 INFO  TimeLogger - Normalized time per run (n^3):  .00
+2023-01-28 00:29:35 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 3 runs
+2023-01-28 00:29:35 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:29:35 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-28 00:29:35 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 3 runs
+2023-01-28 00:29:35 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:29:35 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-28 00:29:35 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 2 runs
+2023-01-28 00:29:35 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:29:35 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-28 00:29:35 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 2 runs
+2023-01-28 00:29:35 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:29:35 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-28 00:34:48 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 100 runs
+2023-01-28 00:34:48 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:34:48 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-28 00:34:48 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 100 runs
+2023-01-28 00:34:48 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:34:48 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-28 00:34:48 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 100 runs
+2023-01-28 00:34:48 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:34:48 INFO  TimeLogger - Normalized time per run (n^3):  .00
+2023-01-28 00:34:48 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 50 runs
+2023-01-28 00:34:48 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:34:48 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-28 00:34:48 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 50 runs
+2023-01-28 00:34:48 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:34:48 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-28 00:34:48 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 50 runs
+2023-01-28 00:34:48 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:34:48 INFO  TimeLogger - Normalized time per run (n^3):  .00
+2023-01-28 00:34:48 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 20 runs
+2023-01-28 00:34:48 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:34:48 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-28 00:34:48 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 20 runs
+2023-01-28 00:34:48 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:34:48 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-28 00:34:48 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 20 runs
+2023-01-28 00:34:48 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:34:48 INFO  TimeLogger - Normalized time per run (n^3):  .00
+2023-01-28 00:34:48 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10 runs
+2023-01-28 00:34:48 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:34:48 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-28 00:34:48 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10 runs
+2023-01-28 00:34:48 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:34:48 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-28 00:34:48 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 10 runs
+2023-01-28 00:34:48 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:34:48 INFO  TimeLogger - Normalized time per run (n^3):  .00
+2023-01-28 00:34:48 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 5 runs
+2023-01-28 00:34:48 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:34:48 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-28 00:34:48 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 5 runs
+2023-01-28 00:34:48 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:34:48 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-28 00:34:48 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 5 runs
+2023-01-28 00:34:48 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:34:48 INFO  TimeLogger - Normalized time per run (n^3):  .00
+2023-01-28 00:34:48 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 3 runs
+2023-01-28 00:34:48 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:34:48 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-28 00:34:48 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 3 runs
+2023-01-28 00:34:48 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:34:48 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-28 00:34:48 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 2 runs
+2023-01-28 00:34:48 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:34:48 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-28 00:34:48 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 2 runs
+2023-01-28 00:34:48 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 00:34:48 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-28 01:58:09 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 100 runs
+2023-01-28 01:58:09 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 01:58:09 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-28 01:58:09 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 100 runs
+2023-01-28 01:58:09 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 01:58:09 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-28 01:58:09 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 100 runs
+2023-01-28 01:58:09 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 01:58:09 INFO  TimeLogger - Normalized time per run (n^3):  .00
+2023-01-28 01:58:09 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 50 runs
+2023-01-28 01:58:09 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 01:58:09 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-28 01:58:09 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 50 runs
+2023-01-28 01:58:09 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 01:58:09 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-28 01:58:09 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 50 runs
+2023-01-28 01:58:09 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 01:58:09 INFO  TimeLogger - Normalized time per run (n^3):  .00
+2023-01-28 01:58:09 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 20 runs
+2023-01-28 01:58:09 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 01:58:09 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-28 01:58:09 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 20 runs
+2023-01-28 01:58:09 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 01:58:09 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-28 01:58:09 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 20 runs
+2023-01-28 01:58:09 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 01:58:09 INFO  TimeLogger - Normalized time per run (n^3):  .00
+2023-01-28 01:58:09 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10 runs
+2023-01-28 01:58:09 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 01:58:09 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-28 01:58:09 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10 runs
+2023-01-28 01:58:09 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 01:58:09 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-28 01:58:09 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 10 runs
+2023-01-28 01:58:09 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 01:58:09 INFO  TimeLogger - Normalized time per run (n^3):  .00
+2023-01-28 01:58:09 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 5 runs
+2023-01-28 01:58:09 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 01:58:09 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-28 01:58:09 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 5 runs
+2023-01-28 01:58:09 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 01:58:09 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-28 01:58:09 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 5 runs
+2023-01-28 01:58:09 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 01:58:09 INFO  TimeLogger - Normalized time per run (n^3):  .00
+2023-01-28 01:58:09 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 3 runs
+2023-01-28 01:58:09 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 01:58:09 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-28 01:58:09 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 3 runs
+2023-01-28 01:58:09 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 01:58:09 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-28 01:58:09 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 2 runs
+2023-01-28 01:58:09 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 01:58:09 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-28 01:58:09 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 2 runs
+2023-01-28 01:58:09 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-28 01:58:09 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-28 01:59:19 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 100 runs
+2023-01-28 01:59:19 INFO  TimeLogger - Raw time per run (mSec):  .28
+2023-01-28 01:59:19 INFO  TimeLogger - Normalized time per run (n^2):  4.48
+2023-01-28 01:59:19 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 100 runs
+2023-01-28 01:59:19 INFO  TimeLogger - Raw time per run (mSec):  .48
+2023-01-28 01:59:19 INFO  TimeLogger - Normalized time per run (n^2 log n):  .96
+2023-01-28 01:59:19 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 100 runs
+2023-01-28 01:59:20 INFO  TimeLogger - Raw time per run (mSec):  2.79
+2023-01-28 01:59:20 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-28 01:59:20 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 50 runs
+2023-01-28 01:59:20 INFO  TimeLogger - Raw time per run (mSec):  .58
+2023-01-28 01:59:20 INFO  TimeLogger - Normalized time per run (n^2):  2.32
+2023-01-28 01:59:20 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 50 runs
+2023-01-28 01:59:20 INFO  TimeLogger - Raw time per run (mSec):  1.94
+2023-01-28 01:59:20 INFO  TimeLogger - Normalized time per run (n^2 log n):  .87
+2023-01-28 01:59:20 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 50 runs
+2023-01-28 01:59:23 INFO  TimeLogger - Raw time per run (mSec):  21.64
+2023-01-28 01:59:23 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-28 01:59:23 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 20 runs
+2023-01-28 01:59:23 INFO  TimeLogger - Raw time per run (mSec):  2.35
+2023-01-28 01:59:23 INFO  TimeLogger - Normalized time per run (n^2):  2.35
+2023-01-28 01:59:23 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 20 runs
+2023-01-28 01:59:23 INFO  TimeLogger - Raw time per run (mSec):  10.70
+2023-01-28 01:59:23 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.07
+2023-01-28 01:59:23 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 20 runs
+2023-01-28 01:59:30 INFO  TimeLogger - Raw time per run (mSec):  170.35
+2023-01-28 01:59:30 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-28 01:59:30 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10 runs
+2023-01-28 01:59:31 INFO  TimeLogger - Raw time per run (mSec):  16.20
+2023-01-28 01:59:31 INFO  TimeLogger - Normalized time per run (n^2):  4.05
+2023-01-28 01:59:31 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10 runs
+2023-01-28 01:59:32 INFO  TimeLogger - Raw time per run (mSec):  57.20
+2023-01-28 01:59:32 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.30
+2023-01-28 01:59:32 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 10 runs
+2023-01-28 02:00:02 INFO  TimeLogger - Raw time per run (mSec):  1347.60
+2023-01-28 02:00:02 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-28 02:00:02 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 5 runs
+2023-01-28 02:00:03 INFO  TimeLogger - Raw time per run (mSec):  69.60
+2023-01-28 02:00:03 INFO  TimeLogger - Normalized time per run (n^2):  4.35
+2023-01-28 02:00:03 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 5 runs
+2023-01-28 02:00:07 INFO  TimeLogger - Raw time per run (mSec):  335.20
+2023-01-28 02:00:07 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.75
+2023-01-28 02:00:07 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 5 runs
+2023-01-28 02:43:53 INFO  TimeLogger - Raw time per run (mSec):  10935.40
+2023-01-28 02:43:53 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-28 02:43:53 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 3 runs
+2023-01-28 02:43:56 INFO  TimeLogger - Raw time per run (mSec):  308.33
+2023-01-28 02:43:56 INFO  TimeLogger - Normalized time per run (n^2):  4.82
+2023-01-28 02:43:56 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 3 runs
+2023-01-28 03:16:17 INFO  TimeLogger - Raw time per run (mSec):  1600.00
+2023-01-28 03:16:17 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.93
+2023-01-28 03:16:17 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 2 runs
+2023-01-28 03:50:23 INFO  TimeLogger - Raw time per run (mSec):  1943.00
+2023-01-28 03:50:23 INFO  TimeLogger - Normalized time per run (n^2):  7.59
+2023-01-28 03:50:23 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 2 runs
+2023-01-28 05:35:48 INFO  TimeLogger - Raw time per run (mSec):  6180.00
+2023-01-28 05:35:48 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.73
+2023-01-28 10:13:30 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 100 runs
+2023-01-28 10:13:30 INFO  TimeLogger - Raw time per run (mSec):  .30
+2023-01-28 10:13:30 INFO  TimeLogger - Normalized time per run (n^2):  4.80
+2023-01-28 10:13:30 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 100 runs
+2023-01-28 10:13:31 INFO  TimeLogger - Raw time per run (mSec):  .51
+2023-01-28 10:13:31 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.02
+2023-01-28 10:13:31 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 100 runs
+2023-01-28 10:13:31 INFO  TimeLogger - Raw time per run (mSec):  2.80
+2023-01-28 10:13:31 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-28 10:13:31 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 50 runs
+2023-01-28 10:13:31 INFO  TimeLogger - Raw time per run (mSec):  .56
+2023-01-28 10:13:31 INFO  TimeLogger - Normalized time per run (n^2):  2.24
+2023-01-28 10:13:31 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 50 runs
+2023-01-28 10:13:32 INFO  TimeLogger - Raw time per run (mSec):  1.96
+2023-01-28 10:13:32 INFO  TimeLogger - Normalized time per run (n^2 log n):  .87
+2023-01-28 10:13:32 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 50 runs
+2023-01-28 10:13:34 INFO  TimeLogger - Raw time per run (mSec):  21.50
+2023-01-28 10:13:34 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-28 10:13:34 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 20 runs
+2023-01-28 10:13:34 INFO  TimeLogger - Raw time per run (mSec):  2.20
+2023-01-28 10:13:34 INFO  TimeLogger - Normalized time per run (n^2):  2.20
+2023-01-28 10:13:34 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 20 runs
+2023-01-28 10:13:34 INFO  TimeLogger - Raw time per run (mSec):  10.60
+2023-01-28 10:13:34 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.06
+2023-01-28 10:13:34 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 20 runs
+2023-01-28 10:13:42 INFO  TimeLogger - Raw time per run (mSec):  171.15
+2023-01-28 10:13:42 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-28 10:13:42 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10 runs
+2023-01-28 10:13:42 INFO  TimeLogger - Raw time per run (mSec):  15.80
+2023-01-28 10:13:42 INFO  TimeLogger - Normalized time per run (n^2):  3.95
+2023-01-28 10:13:42 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10 runs
+2023-01-28 10:13:43 INFO  TimeLogger - Raw time per run (mSec):  55.40
+2023-01-28 10:13:43 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.26
+2023-01-28 10:13:43 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 10 runs
+2023-01-28 10:14:13 INFO  TimeLogger - Raw time per run (mSec):  1344.60
+2023-01-28 10:14:13 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-28 10:14:13 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 5 runs
+2023-01-28 10:14:14 INFO  TimeLogger - Raw time per run (mSec):  77.00
+2023-01-28 10:14:14 INFO  TimeLogger - Normalized time per run (n^2):  4.81
+2023-01-28 10:14:14 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 5 runs
+2023-01-28 10:14:17 INFO  TimeLogger - Raw time per run (mSec):  278.80
+2023-01-28 10:14:17 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.46
+2023-01-28 10:14:17 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 5 runs
+2023-01-28 10:16:28 INFO  TimeLogger - Raw time per run (mSec):  10861.00
+2023-01-28 10:16:28 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-28 10:16:28 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 3 runs
+2023-01-28 10:16:31 INFO  TimeLogger - Raw time per run (mSec):  381.67
+2023-01-28 10:16:31 INFO  TimeLogger - Normalized time per run (n^2):  5.96
+2023-01-28 10:16:31 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 3 runs
+2023-01-28 10:16:42 INFO  TimeLogger - Raw time per run (mSec):  1376.33
+2023-01-28 10:16:42 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.66
+2023-01-28 10:16:42 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 2 runs
+2023-01-28 10:16:52 INFO  TimeLogger - Raw time per run (mSec):  1839.50
+2023-01-28 10:16:52 INFO  TimeLogger - Normalized time per run (n^2):  7.19
+2023-01-28 10:16:52 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 2 runs
+2023-01-28 10:17:27 INFO  TimeLogger - Raw time per run (mSec):  5770.00
+2023-01-28 10:17:27 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.61
+2023-01-28 10:29:15 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 100 runs
+2023-01-28 10:29:15 INFO  TimeLogger - Raw time per run (mSec):  .73
+2023-01-28 10:29:15 INFO  TimeLogger - Normalized time per run (n^2):  2.92
+2023-01-28 10:29:15 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 100 runs
+2023-01-28 10:29:15 INFO  TimeLogger - Raw time per run (mSec):  1.96
+2023-01-28 10:29:15 INFO  TimeLogger - Normalized time per run (n^2 log n):  .87
+2023-01-28 10:29:15 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 100 runs
+2023-01-28 10:29:20 INFO  TimeLogger - Raw time per run (mSec):  21.54
+2023-01-28 10:29:20 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-28 10:29:20 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 50 runs
+2023-01-28 10:29:20 INFO  TimeLogger - Raw time per run (mSec):  2.16
+2023-01-28 10:29:20 INFO  TimeLogger - Normalized time per run (n^2):  2.16
+2023-01-28 10:29:20 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 50 runs
+2023-01-28 10:29:22 INFO  TimeLogger - Raw time per run (mSec):  10.50
+2023-01-28 10:29:22 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.05
+2023-01-28 10:29:22 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 50 runs
+2023-01-28 10:29:39 INFO  TimeLogger - Raw time per run (mSec):  169.08
+2023-01-28 10:29:39 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-28 10:29:39 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 20 runs
+2023-01-28 10:29:40 INFO  TimeLogger - Raw time per run (mSec):  14.30
+2023-01-28 10:29:40 INFO  TimeLogger - Normalized time per run (n^2):  3.58
+2023-01-28 10:29:40 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 20 runs
+2023-01-28 10:29:42 INFO  TimeLogger - Raw time per run (mSec):  56.35
+2023-01-28 10:29:42 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.28
+2023-01-28 10:29:42 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 20 runs
+2023-01-28 10:30:39 INFO  TimeLogger - Raw time per run (mSec):  1362.60
+2023-01-28 10:30:39 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-28 10:30:39 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10 runs
+2023-01-28 10:30:41 INFO  TimeLogger - Raw time per run (mSec):  77.30
+2023-01-28 10:30:41 INFO  TimeLogger - Normalized time per run (n^2):  4.83
+2023-01-28 10:30:41 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10 runs
+2023-01-28 10:30:48 INFO  TimeLogger - Raw time per run (mSec):  280.00
+2023-01-28 10:30:48 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.46
+2023-01-28 10:30:48 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 10 runs
+2023-01-28 10:34:45 INFO  TimeLogger - Raw time per run (mSec):  10778.20
+2023-01-28 10:34:45 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-28 10:34:45 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 5 runs
+2023-01-28 10:34:49 INFO  TimeLogger - Raw time per run (mSec):  339.00
+2023-01-28 10:34:49 INFO  TimeLogger - Normalized time per run (n^2):  5.30
+2023-01-28 10:34:49 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 5 runs
+2023-01-28 10:35:05 INFO  TimeLogger - Raw time per run (mSec):  1357.60
+2023-01-28 10:35:05 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.64
+2023-01-28 10:35:05 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 3 runs
+2023-01-28 10:35:21 INFO  TimeLogger - Raw time per run (mSec):  1885.00
+2023-01-28 10:35:21 INFO  TimeLogger - Normalized time per run (n^2):  7.36
+2023-01-28 10:35:21 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 3 runs
+2023-01-28 10:36:10 INFO  TimeLogger - Raw time per run (mSec):  6118.33
+2023-01-28 10:36:10 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.71
+2023-01-28 10:36:10 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 2 runs
+2023-01-28 10:37:25 INFO  TimeLogger - Raw time per run (mSec):  12756.50
+2023-01-28 10:37:25 INFO  TimeLogger - Normalized time per run (n^2):  12.46
+2023-01-28 10:37:25 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 2 runs
+2023-01-28 10:40:16 INFO  TimeLogger - Raw time per run (mSec):  28565.00
+2023-01-28 10:40:16 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.86
+2023-01-28 10:59:08 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 100 runs
+2023-01-28 10:59:08 INFO  TimeLogger - Raw time per run (mSec):  .18
+2023-01-28 10:59:08 INFO  TimeLogger - Normalized time per run (n^2):  4.50
+2023-01-28 10:59:08 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 100 runs
+2023-01-28 10:59:08 INFO  TimeLogger - Raw time per run (mSec):  .28
+2023-01-28 10:59:08 INFO  TimeLogger - Normalized time per run (n^2 log n):  .92
+2023-01-28 10:59:08 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 100 runs
+2023-01-28 10:59:08 INFO  TimeLogger - Raw time per run (mSec):  1.41
+2023-01-28 10:59:08 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-28 10:59:08 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 50 runs
+2023-01-28 10:59:08 INFO  TimeLogger - Raw time per run (mSec):  .30
+2023-01-28 10:59:08 INFO  TimeLogger - Normalized time per run (n^2):  1.88
+2023-01-28 10:59:08 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 50 runs
+2023-01-28 10:59:09 INFO  TimeLogger - Raw time per run (mSec):  1.04
+2023-01-28 10:59:09 INFO  TimeLogger - Normalized time per run (n^2 log n):  .75
+2023-01-28 10:59:09 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 50 runs
+2023-01-28 10:59:10 INFO  TimeLogger - Raw time per run (mSec):  10.94
+2023-01-28 10:59:10 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-28 10:59:10 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 20 runs
+2023-01-28 10:59:10 INFO  TimeLogger - Raw time per run (mSec):  1.05
+2023-01-28 10:59:10 INFO  TimeLogger - Normalized time per run (n^2):  1.64
+2023-01-28 10:59:10 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 20 runs
+2023-01-28 10:59:10 INFO  TimeLogger - Raw time per run (mSec):  5.35
+2023-01-28 10:59:10 INFO  TimeLogger - Normalized time per run (n^2 log n):  .87
+2023-01-28 10:59:10 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 20 runs
+2023-01-28 10:59:14 INFO  TimeLogger - Raw time per run (mSec):  85.65
+2023-01-28 10:59:14 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-28 10:59:14 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10 runs
+2023-01-28 10:59:14 INFO  TimeLogger - Raw time per run (mSec):  4.80
+2023-01-28 10:59:14 INFO  TimeLogger - Normalized time per run (n^2):  1.88
+2023-01-28 10:59:14 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10 runs
+2023-01-28 10:59:15 INFO  TimeLogger - Raw time per run (mSec):  29.80
+2023-01-28 10:59:15 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.09
+2023-01-28 10:59:15 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 10 runs
+2023-01-28 10:59:30 INFO  TimeLogger - Raw time per run (mSec):  683.40
+2023-01-28 10:59:30 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-28 10:59:30 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 5 runs
+2023-01-28 10:59:30 INFO  TimeLogger - Raw time per run (mSec):  23.20
+2023-01-28 10:59:30 INFO  TimeLogger - Normalized time per run (n^2):  2.27
+2023-01-28 10:59:30 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 5 runs
+2023-01-28 10:59:32 INFO  TimeLogger - Raw time per run (mSec):  152.60
+2023-01-28 10:59:32 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.28
+2023-01-28 10:59:32 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 5 runs
+2023-01-28 11:00:37 INFO  TimeLogger - Raw time per run (mSec):  5470.40
+2023-01-28 11:00:37 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-28 11:00:37 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 3 runs
+2023-01-28 11:00:39 INFO  TimeLogger - Raw time per run (mSec):  135.67
+2023-01-28 11:00:39 INFO  TimeLogger - Normalized time per run (n^2):  3.31
+2023-01-28 11:00:39 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 3 runs
+2023-01-28 11:00:44 INFO  TimeLogger - Raw time per run (mSec):  699.67
+2023-01-28 11:00:44 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.35
+2023-01-28 11:45:21 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 100 runs
+2023-01-28 11:45:21 INFO  TimeLogger - Raw time per run (mSec):  .15
+2023-01-28 11:45:21 INFO  TimeLogger - Normalized time per run (n^2):  3.75
+2023-01-28 11:45:21 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 100 runs
+2023-01-28 11:45:21 INFO  TimeLogger - Raw time per run (mSec):  .32
+2023-01-28 11:45:21 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.05
+2023-01-28 11:45:21 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 100 runs
+2023-01-28 11:45:21 INFO  TimeLogger - Raw time per run (mSec):  1.41
+2023-01-28 11:45:21 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-28 11:45:21 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 50 runs
+2023-01-28 11:45:21 INFO  TimeLogger - Raw time per run (mSec):  .30
+2023-01-28 11:45:21 INFO  TimeLogger - Normalized time per run (n^2):  1.88
+2023-01-28 11:45:21 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 50 runs
+2023-01-28 11:45:21 INFO  TimeLogger - Raw time per run (mSec):  1.08
+2023-01-28 11:45:21 INFO  TimeLogger - Normalized time per run (n^2 log n):  .78
+2023-01-28 11:45:21 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 50 runs
+2023-01-28 11:45:22 INFO  TimeLogger - Raw time per run (mSec):  11.08
+2023-01-28 11:45:22 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-28 11:45:22 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 20 runs
+2023-01-28 11:45:23 INFO  TimeLogger - Raw time per run (mSec):  1.00
+2023-01-28 11:45:23 INFO  TimeLogger - Normalized time per run (n^2):  1.56
+2023-01-28 11:45:23 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 20 runs
+2023-01-28 11:45:23 INFO  TimeLogger - Raw time per run (mSec):  5.30
+2023-01-28 11:45:23 INFO  TimeLogger - Normalized time per run (n^2 log n):  .86
+2023-01-28 11:45:23 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 20 runs
+2023-01-28 11:45:26 INFO  TimeLogger - Raw time per run (mSec):  86.50
+2023-01-28 11:45:26 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-28 11:45:26 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10 runs
+2023-01-28 11:45:27 INFO  TimeLogger - Raw time per run (mSec):  4.70
+2023-01-28 11:45:27 INFO  TimeLogger - Normalized time per run (n^2):  1.84
+2023-01-28 11:45:27 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10 runs
+2023-01-28 11:45:27 INFO  TimeLogger - Raw time per run (mSec):  30.50
+2023-01-28 11:45:27 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.12
+2023-01-28 11:45:27 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 10 runs
+2023-01-28 11:45:42 INFO  TimeLogger - Raw time per run (mSec):  684.40
+2023-01-28 11:45:42 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-28 11:45:42 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 5 runs
+2023-01-28 11:45:43 INFO  TimeLogger - Raw time per run (mSec):  24.20
+2023-01-28 11:45:43 INFO  TimeLogger - Normalized time per run (n^2):  2.36
+2023-01-28 11:45:43 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 5 runs
+2023-01-28 11:45:45 INFO  TimeLogger - Raw time per run (mSec):  155.00
+2023-01-28 11:45:45 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.30
+2023-01-28 11:45:45 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 5 runs
+2023-01-28 11:46:51 INFO  TimeLogger - Raw time per run (mSec):  5502.80
+2023-01-28 11:46:51 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-28 11:46:51 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 3 runs
+2023-01-28 11:46:52 INFO  TimeLogger - Raw time per run (mSec):  109.67
+2023-01-28 11:46:52 INFO  TimeLogger - Normalized time per run (n^2):  2.68
+2023-01-28 11:46:52 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 3 runs
+2023-01-28 11:46:58 INFO  TimeLogger - Raw time per run (mSec):  767.00
+2023-01-28 11:46:58 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.48
+2023-02-04 13:15:59 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 13:16:09 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 13:16:14 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 13:16:17 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 13:16:20 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 13:16:24 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 13:19:21 INFO  Benchmark_Timer - Begin run: Insertion Sort (Random) with 100 runs
+2023-02-04 13:19:21 INFO  TimeLogger - Raw time per run (mSec):  .09
+2023-02-04 13:19:21 INFO  Benchmark_Timer - Begin run: Insertion Sort (Partially) with 100 runs
+2023-02-04 13:19:21 INFO  TimeLogger - Raw time per run (mSec):  .03
+2023-02-04 13:19:21 INFO  Benchmark_Timer - Begin run: Insertion Sort (Sorted) with 100 runs
+2023-02-04 13:19:21 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 13:19:21 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse) with 100 runs
+2023-02-04 13:19:21 INFO  TimeLogger - Raw time per run (mSec):  .09
+2023-02-04 13:19:21 INFO  Benchmark_Timer - Begin run: Insertion Sort (Random) with 100 runs
+2023-02-04 13:19:21 INFO  TimeLogger - Raw time per run (mSec):  .16
+2023-02-04 13:19:21 INFO  Benchmark_Timer - Begin run: Insertion Sort (Partially) with 100 runs
+2023-02-04 13:19:21 INFO  TimeLogger - Raw time per run (mSec):  .12
+2023-02-04 13:19:21 INFO  Benchmark_Timer - Begin run: Insertion Sort (Sorted) with 100 runs
+2023-02-04 13:19:21 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 13:19:21 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse) with 100 runs
+2023-02-04 13:19:21 INFO  TimeLogger - Raw time per run (mSec):  .34
+2023-02-04 13:19:21 INFO  Benchmark_Timer - Begin run: Insertion Sort (Random) with 100 runs
+2023-02-04 13:19:22 INFO  TimeLogger - Raw time per run (mSec):  .62
+2023-02-04 13:19:22 INFO  Benchmark_Timer - Begin run: Insertion Sort (Partially) with 100 runs
+2023-02-04 13:19:22 INFO  TimeLogger - Raw time per run (mSec):  .48
+2023-02-04 13:19:22 INFO  Benchmark_Timer - Begin run: Insertion Sort (Sorted) with 100 runs
+2023-02-04 13:19:22 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 13:19:22 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse) with 100 runs
+2023-02-04 13:19:22 INFO  TimeLogger - Raw time per run (mSec):  1.36
+2023-02-04 13:19:22 INFO  Benchmark_Timer - Begin run: Insertion Sort (Random) with 100 runs
+2023-02-04 13:19:22 INFO  TimeLogger - Raw time per run (mSec):  2.43
+2023-02-04 13:19:22 INFO  Benchmark_Timer - Begin run: Insertion Sort (Partially) with 100 runs
+2023-02-04 13:19:22 INFO  TimeLogger - Raw time per run (mSec):  1.95
+2023-02-04 13:19:22 INFO  Benchmark_Timer - Begin run: Insertion Sort (Sorted) with 100 runs
+2023-02-04 13:19:22 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 13:19:22 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse) with 100 runs
+2023-02-04 13:19:23 INFO  TimeLogger - Raw time per run (mSec):  5.41
+2023-02-04 13:19:23 INFO  Benchmark_Timer - Begin run: Insertion Sort (Random) with 100 runs
+2023-02-04 13:19:24 INFO  TimeLogger - Raw time per run (mSec):  10.64
+2023-02-04 13:19:24 INFO  Benchmark_Timer - Begin run: Insertion Sort (Partially) with 100 runs
+2023-02-04 13:19:25 INFO  TimeLogger - Raw time per run (mSec):  7.90
+2023-02-04 13:19:25 INFO  Benchmark_Timer - Begin run: Insertion Sort (Sorted) with 100 runs
+2023-02-04 13:19:25 INFO  TimeLogger - Raw time per run (mSec):  .01
+2023-02-04 13:19:25 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse) with 100 runs
+2023-02-04 13:19:27 INFO  TimeLogger - Raw time per run (mSec):  21.45
+2023-02-04 13:19:27 INFO  Benchmark_Timer - Begin run: Insertion Sort (Random) with 100 runs
+2023-02-04 13:19:32 INFO  TimeLogger - Raw time per run (mSec):  43.56
+2023-02-04 13:19:32 INFO  Benchmark_Timer - Begin run: Insertion Sort (Partially) with 100 runs
+2023-02-04 13:19:36 INFO  TimeLogger - Raw time per run (mSec):  32.18
+2023-02-04 13:19:36 INFO  Benchmark_Timer - Begin run: Insertion Sort (Sorted) with 100 runs
+2023-02-04 13:19:36 INFO  TimeLogger - Raw time per run (mSec):  .02
+2023-02-04 13:19:36 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse) with 100 runs
+2023-02-04 13:19:45 INFO  TimeLogger - Raw time per run (mSec):  85.65
+2023-02-04 13:19:45 INFO  Benchmark_Timer - Begin run: Insertion Sort (Random) with 100 runs
+2023-02-04 13:20:04 INFO  TimeLogger - Raw time per run (mSec):  175.03
+2023-02-04 13:20:04 INFO  Benchmark_Timer - Begin run: Insertion Sort (Partially) with 100 runs
+2023-02-04 13:20:18 INFO  TimeLogger - Raw time per run (mSec):  129.94
+2023-02-04 13:20:18 INFO  Benchmark_Timer - Begin run: Insertion Sort (Sorted) with 100 runs
+2023-02-04 13:20:18 INFO  TimeLogger - Raw time per run (mSec):  .03
+2023-02-04 13:20:18 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse) with 100 runs
+2023-02-04 13:20:56 INFO  TimeLogger - Raw time per run (mSec):  342.99
+2023-02-04 17:15:29 INFO  Benchmark_Timer - Begin run: Insertion Sort (Random) with 100 runs
+2023-02-04 17:15:29 INFO  TimeLogger - Raw time per run (mSec):  .08
+2023-02-04 17:15:29 INFO  Benchmark_Timer - Begin run: Insertion Sort (Partially) with 100 runs
+2023-02-04 17:15:29 INFO  TimeLogger - Raw time per run (mSec):  .03
+2023-02-04 17:15:29 INFO  Benchmark_Timer - Begin run: Insertion Sort (Sorted) with 100 runs
+2023-02-04 17:15:29 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 17:15:29 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse) with 100 runs
+2023-02-04 17:15:29 INFO  TimeLogger - Raw time per run (mSec):  .08
+2023-02-04 17:15:29 INFO  Benchmark_Timer - Begin run: Insertion Sort (Random) with 100 runs
+2023-02-04 17:15:29 INFO  TimeLogger - Raw time per run (mSec):  .15
+2023-02-04 17:15:29 INFO  Benchmark_Timer - Begin run: Insertion Sort (Partially) with 100 runs
+2023-02-04 17:15:29 INFO  TimeLogger - Raw time per run (mSec):  .11
+2023-02-04 17:15:29 INFO  Benchmark_Timer - Begin run: Insertion Sort (Sorted) with 100 runs
+2023-02-04 17:15:29 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 17:15:29 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse) with 100 runs
+2023-02-04 17:15:30 INFO  TimeLogger - Raw time per run (mSec):  .33
+2023-02-04 17:15:30 INFO  Benchmark_Timer - Begin run: Insertion Sort (Random) with 100 runs
+2023-02-04 17:15:30 INFO  TimeLogger - Raw time per run (mSec):  .59
+2023-02-04 17:15:30 INFO  Benchmark_Timer - Begin run: Insertion Sort (Partially) with 100 runs
+2023-02-04 17:15:30 INFO  TimeLogger - Raw time per run (mSec):  .46
+2023-02-04 17:15:30 INFO  Benchmark_Timer - Begin run: Insertion Sort (Sorted) with 100 runs
+2023-02-04 17:15:30 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 17:15:30 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse) with 100 runs
+2023-02-04 17:15:30 INFO  TimeLogger - Raw time per run (mSec):  1.32
+2023-02-04 17:15:30 INFO  Benchmark_Timer - Begin run: Insertion Sort (Random) with 100 runs
+2023-02-04 17:15:30 INFO  TimeLogger - Raw time per run (mSec):  2.42
+2023-02-04 17:15:30 INFO  Benchmark_Timer - Begin run: Insertion Sort (Partially) with 100 runs
+2023-02-04 17:15:30 INFO  TimeLogger - Raw time per run (mSec):  1.98
+2023-02-04 17:15:30 INFO  Benchmark_Timer - Begin run: Insertion Sort (Sorted) with 100 runs
+2023-02-04 17:15:30 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 17:15:30 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse) with 100 runs
+2023-02-04 17:15:31 INFO  TimeLogger - Raw time per run (mSec):  5.29
+2023-02-04 17:15:31 INFO  Benchmark_Timer - Begin run: Insertion Sort (Random) with 100 runs
+2023-02-04 17:15:32 INFO  TimeLogger - Raw time per run (mSec):  10.59
+2023-02-04 17:15:32 INFO  Benchmark_Timer - Begin run: Insertion Sort (Partially) with 100 runs
+2023-02-04 17:15:33 INFO  TimeLogger - Raw time per run (mSec):  7.96
+2023-02-04 17:15:33 INFO  Benchmark_Timer - Begin run: Insertion Sort (Sorted) with 100 runs
+2023-02-04 17:15:33 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 17:15:33 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse) with 100 runs
+2023-02-04 17:15:35 INFO  TimeLogger - Raw time per run (mSec):  21.13
+2023-02-04 17:15:35 INFO  Benchmark_Timer - Begin run: Insertion Sort (Random) with 100 runs
+2023-02-04 17:15:43 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 17:20:05 INFO  Benchmark_Timer - Begin run: Insertion Sort (Random) with 100 runs
+2023-02-04 17:20:05 INFO  TimeLogger - Raw time per run (mSec):  .08
+2023-02-04 17:20:05 INFO  Benchmark_Timer - Begin run: Insertion Sort (Partially) with 100 runs
+2023-02-04 17:20:05 INFO  TimeLogger - Raw time per run (mSec):  .03
+2023-02-04 17:20:05 INFO  Benchmark_Timer - Begin run: Insertion Sort (Sorted) with 100 runs
+2023-02-04 17:20:05 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 17:20:05 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse) with 100 runs
+2023-02-04 17:20:05 INFO  TimeLogger - Raw time per run (mSec):  .08
+2023-02-04 17:20:05 INFO  Benchmark_Timer - Begin run: Insertion Sort (Random) with 100 runs
+2023-02-04 17:20:05 INFO  TimeLogger - Raw time per run (mSec):  .16
+2023-02-04 17:20:05 INFO  Benchmark_Timer - Begin run: Insertion Sort (Partially) with 100 runs
+2023-02-04 17:20:05 INFO  TimeLogger - Raw time per run (mSec):  .12
+2023-02-04 17:20:05 INFO  Benchmark_Timer - Begin run: Insertion Sort (Sorted) with 100 runs
+2023-02-04 17:20:05 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 17:20:05 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse) with 100 runs
+2023-02-04 17:20:05 INFO  TimeLogger - Raw time per run (mSec):  .32
+2023-02-04 17:20:05 INFO  Benchmark_Timer - Begin run: Insertion Sort (Random) with 100 runs
+2023-02-04 17:20:06 INFO  TimeLogger - Raw time per run (mSec):  .63
+2023-02-04 17:20:06 INFO  Benchmark_Timer - Begin run: Insertion Sort (Partially) with 100 runs
+2023-02-04 17:20:06 INFO  TimeLogger - Raw time per run (mSec):  .50
+2023-02-04 17:20:06 INFO  Benchmark_Timer - Begin run: Insertion Sort (Sorted) with 100 runs
+2023-02-04 17:20:06 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 17:20:06 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse) with 100 runs
+2023-02-04 17:20:06 INFO  TimeLogger - Raw time per run (mSec):  1.28
+2023-02-04 17:20:06 INFO  Benchmark_Timer - Begin run: Insertion Sort (Random) with 100 runs
+2023-02-04 17:20:06 INFO  TimeLogger - Raw time per run (mSec):  2.47
+2023-02-04 17:20:06 INFO  Benchmark_Timer - Begin run: Insertion Sort (Partially) with 100 runs
+2023-02-04 17:20:06 INFO  TimeLogger - Raw time per run (mSec):  1.90
+2023-02-04 17:20:06 INFO  Benchmark_Timer - Begin run: Insertion Sort (Sorted) with 100 runs
+2023-02-04 17:20:06 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 17:20:06 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse) with 100 runs
+2023-02-04 17:20:07 INFO  TimeLogger - Raw time per run (mSec):  5.19
+2023-02-04 17:20:07 INFO  Benchmark_Timer - Begin run: Insertion Sort (Random) with 100 runs
+2023-02-04 17:20:08 INFO  TimeLogger - Raw time per run (mSec):  10.26
+2023-02-04 17:20:08 INFO  Benchmark_Timer - Begin run: Insertion Sort (Partially) with 100 runs
+2023-02-04 17:20:09 INFO  TimeLogger - Raw time per run (mSec):  7.72
+2023-02-04 17:20:09 INFO  Benchmark_Timer - Begin run: Insertion Sort (Sorted) with 100 runs
+2023-02-04 17:20:09 INFO  TimeLogger - Raw time per run (mSec):  .01
+2023-02-04 17:20:09 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse) with 100 runs
+2023-02-04 17:20:11 INFO  TimeLogger - Raw time per run (mSec):  20.48
+2023-02-04 17:20:11 INFO  Benchmark_Timer - Begin run: Insertion Sort (Random) with 100 runs
+2023-02-04 17:20:16 INFO  TimeLogger - Raw time per run (mSec):  41.55
+2023-02-04 17:20:16 INFO  Benchmark_Timer - Begin run: Insertion Sort (Partially) with 100 runs
+2023-02-04 17:20:19 INFO  TimeLogger - Raw time per run (mSec):  30.99
+2023-02-04 17:20:19 INFO  Benchmark_Timer - Begin run: Insertion Sort (Sorted) with 100 runs
+2023-02-04 17:20:19 INFO  TimeLogger - Raw time per run (mSec):  .01
+2023-02-04 17:20:19 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse) with 100 runs
+2023-02-04 17:20:28 INFO  TimeLogger - Raw time per run (mSec):  82.52
+2023-02-04 17:20:28 INFO  Benchmark_Timer - Begin run: Insertion Sort (Random) with 100 runs
+2023-02-04 17:20:46 INFO  TimeLogger - Raw time per run (mSec):  162.91
+2023-02-04 17:20:46 INFO  Benchmark_Timer - Begin run: Insertion Sort (Partially) with 100 runs
+2023-02-04 17:21:00 INFO  TimeLogger - Raw time per run (mSec):  124.28
+2023-02-04 17:21:00 INFO  Benchmark_Timer - Begin run: Insertion Sort (Sorted) with 100 runs
+2023-02-04 17:21:00 INFO  TimeLogger - Raw time per run (mSec):  .03
+2023-02-04 17:21:00 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse) with 100 runs
+2023-02-04 17:21:36 INFO  TimeLogger - Raw time per run (mSec):  332.50
+2023-02-04 19:41:26 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 19:45:05 INFO  Benchmark_Timer - Begin run: Insertion Sort Random with 100 runs
+2023-02-04 19:45:05 INFO  TimeLogger - Raw time per run (mSec):  .16
+2023-02-04 19:45:05 INFO  Benchmark_Timer - Begin run: Insertion Sort Ordered with 100 runs
+2023-02-04 19:45:05 INFO  TimeLogger - Raw time per run (mSec):  .12
+2023-02-04 19:45:05 INFO  Benchmark_Timer - Begin run: Insertion Sort Partially-ordered with 100 runs
+2023-02-04 19:45:05 INFO  TimeLogger - Raw time per run (mSec):  .34
+2023-02-04 19:45:05 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse-ordered) with 100 runs
+2023-02-04 19:45:05 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 19:45:05 INFO  Benchmark_Timer - Begin run: Insertion Sort Random with 100 runs
+2023-02-04 19:45:05 INFO  TimeLogger - Raw time per run (mSec):  .64
+2023-02-04 19:45:05 INFO  Benchmark_Timer - Begin run: Insertion Sort Ordered with 100 runs
+2023-02-04 19:45:06 INFO  TimeLogger - Raw time per run (mSec):  .51
+2023-02-04 19:45:06 INFO  Benchmark_Timer - Begin run: Insertion Sort Partially-ordered with 100 runs
+2023-02-04 19:45:06 INFO  TimeLogger - Raw time per run (mSec):  1.35
+2023-02-04 19:45:06 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse-ordered) with 100 runs
+2023-02-04 19:45:06 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 19:45:06 INFO  Benchmark_Timer - Begin run: Insertion Sort Random with 100 runs
+2023-02-04 19:45:06 INFO  TimeLogger - Raw time per run (mSec):  2.65
+2023-02-04 19:45:06 INFO  Benchmark_Timer - Begin run: Insertion Sort Ordered with 100 runs
+2023-02-04 19:45:06 INFO  TimeLogger - Raw time per run (mSec):  2.07
+2023-02-04 19:45:06 INFO  Benchmark_Timer - Begin run: Insertion Sort Partially-ordered with 100 runs
+2023-02-04 19:45:07 INFO  TimeLogger - Raw time per run (mSec):  5.42
+2023-02-04 19:45:07 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse-ordered) with 100 runs
+2023-02-04 19:45:07 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 19:45:07 INFO  Benchmark_Timer - Begin run: Insertion Sort Random with 100 runs
+2023-02-04 19:45:08 INFO  TimeLogger - Raw time per run (mSec):  10.22
+2023-02-04 19:45:08 INFO  Benchmark_Timer - Begin run: Insertion Sort Ordered with 100 runs
+2023-02-04 19:45:09 INFO  TimeLogger - Raw time per run (mSec):  7.95
+2023-02-04 19:45:09 INFO  Benchmark_Timer - Begin run: Insertion Sort Partially-ordered with 100 runs
+2023-02-04 19:45:11 INFO  TimeLogger - Raw time per run (mSec):  21.92
+2023-02-04 19:45:11 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse-ordered) with 100 runs
+2023-02-04 19:45:11 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 19:45:11 INFO  Benchmark_Timer - Begin run: Insertion Sort Random with 100 runs
+2023-02-04 19:45:16 INFO  TimeLogger - Raw time per run (mSec):  43.36
+2023-02-04 19:45:16 INFO  Benchmark_Timer - Begin run: Insertion Sort Ordered with 100 runs
+2023-02-04 19:45:19 INFO  TimeLogger - Raw time per run (mSec):  32.14
+2023-02-04 19:45:19 INFO  Benchmark_Timer - Begin run: Insertion Sort Partially-ordered with 100 runs
+2023-02-04 19:45:29 INFO  TimeLogger - Raw time per run (mSec):  87.17
+2023-02-04 19:45:29 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse-ordered) with 100 runs
+2023-02-04 19:45:29 INFO  TimeLogger - Raw time per run (mSec):  .01
+2023-02-04 19:45:29 INFO  Benchmark_Timer - Begin run: Insertion Sort Random with 100 runs
+2023-02-04 19:45:49 INFO  TimeLogger - Raw time per run (mSec):  176.04
+2023-02-04 19:45:49 INFO  Benchmark_Timer - Begin run: Insertion Sort Ordered with 100 runs
+2023-02-04 19:46:03 INFO  TimeLogger - Raw time per run (mSec):  133.48
+2023-02-04 19:46:03 INFO  Benchmark_Timer - Begin run: Insertion Sort Partially-ordered with 100 runs
+2023-02-04 19:46:42 INFO  TimeLogger - Raw time per run (mSec):  355.12
+2023-02-04 19:46:42 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse-ordered) with 100 runs
+2023-02-04 19:46:42 INFO  TimeLogger - Raw time per run (mSec):  .15
+2023-02-04 20:13:53 INFO  Benchmark_Timer - Begin run: Insertion Sort Random with 100 runs
+2023-02-04 20:13:53 INFO  TimeLogger - Raw time per run (mSec):  .18
+2023-02-04 20:13:53 INFO  Benchmark_Timer - Begin run: Insertion Sort Ordered with 100 runs
+2023-02-04 20:13:53 INFO  TimeLogger - Raw time per run (mSec):  .13
+2023-02-04 20:13:53 INFO  Benchmark_Timer - Begin run: Insertion Sort Partially-ordered with 100 runs
+2023-02-04 20:13:53 INFO  TimeLogger - Raw time per run (mSec):  .34
+2023-02-04 20:13:53 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse-ordered) with 100 runs
+2023-02-04 20:13:53 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:13:53 INFO  Benchmark_Timer - Begin run: Insertion Sort Random with 100 runs
+2023-02-04 20:13:53 INFO  TimeLogger - Raw time per run (mSec):  .65
+2023-02-04 20:13:53 INFO  Benchmark_Timer - Begin run: Insertion Sort Ordered with 100 runs
+2023-02-04 20:13:53 INFO  TimeLogger - Raw time per run (mSec):  .50
+2023-02-04 20:13:53 INFO  Benchmark_Timer - Begin run: Insertion Sort Partially-ordered with 100 runs
+2023-02-04 20:13:53 INFO  TimeLogger - Raw time per run (mSec):  1.33
+2023-02-04 20:13:53 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse-ordered) with 100 runs
+2023-02-04 20:13:53 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:13:53 INFO  Benchmark_Timer - Begin run: Insertion Sort Random with 100 runs
+2023-02-04 20:13:54 INFO  TimeLogger - Raw time per run (mSec):  2.59
+2023-02-04 20:13:54 INFO  Benchmark_Timer - Begin run: Insertion Sort Ordered with 100 runs
+2023-02-04 20:13:54 INFO  TimeLogger - Raw time per run (mSec):  2.01
+2023-02-04 20:13:54 INFO  Benchmark_Timer - Begin run: Insertion Sort Partially-ordered with 100 runs
+2023-02-04 20:13:54 INFO  TimeLogger - Raw time per run (mSec):  5.32
+2023-02-04 20:13:54 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse-ordered) with 100 runs
+2023-02-04 20:13:54 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:13:54 INFO  Benchmark_Timer - Begin run: Insertion Sort Random with 100 runs
+2023-02-04 20:13:56 INFO  TimeLogger - Raw time per run (mSec):  10.36
+2023-02-04 20:13:56 INFO  Benchmark_Timer - Begin run: Insertion Sort Ordered with 100 runs
+2023-02-04 20:13:56 INFO  TimeLogger - Raw time per run (mSec):  8.69
+2023-02-04 20:13:56 INFO  Benchmark_Timer - Begin run: Insertion Sort Partially-ordered with 100 runs
+2023-02-04 20:13:59 INFO  TimeLogger - Raw time per run (mSec):  21.64
+2023-02-04 20:13:59 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse-ordered) with 100 runs
+2023-02-04 20:13:59 INFO  TimeLogger - Raw time per run (mSec):  .01
+2023-02-04 20:13:59 INFO  Benchmark_Timer - Begin run: Insertion Sort Random with 100 runs
+2023-02-04 20:14:04 INFO  TimeLogger - Raw time per run (mSec):  42.91
+2023-02-04 20:14:04 INFO  Benchmark_Timer - Begin run: Insertion Sort Ordered with 100 runs
+2023-02-04 20:14:07 INFO  TimeLogger - Raw time per run (mSec):  32.38
+2023-02-04 20:14:07 INFO  Benchmark_Timer - Begin run: Insertion Sort Partially-ordered with 100 runs
+2023-02-04 20:14:16 INFO  TimeLogger - Raw time per run (mSec):  84.91
+2023-02-04 20:14:16 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse-ordered) with 100 runs
+2023-02-04 20:14:16 INFO  TimeLogger - Raw time per run (mSec):  .02
+2023-02-04 20:14:16 INFO  Benchmark_Timer - Begin run: Insertion Sort Random with 100 runs
+2023-02-04 20:14:35 INFO  TimeLogger - Raw time per run (mSec):  170.96
+2023-02-04 20:14:35 INFO  Benchmark_Timer - Begin run: Insertion Sort Ordered with 100 runs
+2023-02-04 20:14:50 INFO  TimeLogger - Raw time per run (mSec):  134.27
+2023-02-04 20:14:50 INFO  Benchmark_Timer - Begin run: Insertion Sort Partially-ordered with 100 runs
+2023-02-04 20:15:28 INFO  TimeLogger - Raw time per run (mSec):  344.38
+2023-02-04 20:15:28 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse-ordered) with 100 runs
+2023-02-04 20:15:28 INFO  TimeLogger - Raw time per run (mSec):  .06
+2023-02-04 20:29:37 INFO  Benchmark_Timer - Begin run: Insertion Sort (Random) with 100 runs
+2023-02-04 20:29:37 INFO  TimeLogger - Raw time per run (mSec):  .08
+2023-02-04 20:29:37 INFO  Benchmark_Timer - Begin run: Insertion Sort (Partially) with 100 runs
+2023-02-04 20:29:37 INFO  TimeLogger - Raw time per run (mSec):  .03
+2023-02-04 20:29:37 INFO  Benchmark_Timer - Begin run: Insertion Sort (Sorted) with 100 runs
+2023-02-04 20:29:37 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:29:37 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse) with 100 runs
+2023-02-04 20:29:37 INFO  TimeLogger - Raw time per run (mSec):  .08
+2023-02-04 20:29:37 INFO  Benchmark_Timer - Begin run: Insertion Sort (Random) with 100 runs
+2023-02-04 20:29:37 INFO  TimeLogger - Raw time per run (mSec):  .16
+2023-02-04 20:29:37 INFO  Benchmark_Timer - Begin run: Insertion Sort (Partially) with 100 runs
+2023-02-04 20:29:37 INFO  TimeLogger - Raw time per run (mSec):  .11
+2023-02-04 20:29:37 INFO  Benchmark_Timer - Begin run: Insertion Sort (Sorted) with 100 runs
+2023-02-04 20:29:37 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:29:37 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse) with 100 runs
+2023-02-04 20:29:37 INFO  TimeLogger - Raw time per run (mSec):  .33
+2023-02-04 20:29:37 INFO  Benchmark_Timer - Begin run: Insertion Sort (Random) with 100 runs
+2023-02-04 20:29:37 INFO  TimeLogger - Raw time per run (mSec):  .64
+2023-02-04 20:29:37 INFO  Benchmark_Timer - Begin run: Insertion Sort (Partially) with 100 runs
+2023-02-04 20:29:37 INFO  TimeLogger - Raw time per run (mSec):  .49
+2023-02-04 20:29:37 INFO  Benchmark_Timer - Begin run: Insertion Sort (Sorted) with 100 runs
+2023-02-04 20:29:37 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:29:37 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse) with 100 runs
+2023-02-04 20:29:37 INFO  TimeLogger - Raw time per run (mSec):  1.36
+2023-02-04 20:29:37 INFO  Benchmark_Timer - Begin run: Insertion Sort (Random) with 100 runs
+2023-02-04 20:29:37 INFO  TimeLogger - Raw time per run (mSec):  2.41
+2023-02-04 20:29:37 INFO  Benchmark_Timer - Begin run: Insertion Sort (Partially) with 100 runs
+2023-02-04 20:29:37 INFO  TimeLogger - Raw time per run (mSec):  1.98
+2023-02-04 20:29:37 INFO  Benchmark_Timer - Begin run: Insertion Sort (Sorted) with 100 runs
+2023-02-04 20:29:37 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:29:37 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse) with 100 runs
+2023-02-04 20:29:38 INFO  TimeLogger - Raw time per run (mSec):  5.35
+2023-02-04 20:29:38 INFO  Benchmark_Timer - Begin run: Insertion Sort (Random) with 100 runs
+2023-02-04 20:29:39 INFO  TimeLogger - Raw time per run (mSec):  10.63
+2023-02-04 20:29:39 INFO  Benchmark_Timer - Begin run: Insertion Sort (Partially) with 100 runs
+2023-02-04 20:29:40 INFO  TimeLogger - Raw time per run (mSec):  7.99
+2023-02-04 20:29:40 INFO  Benchmark_Timer - Begin run: Insertion Sort (Sorted) with 100 runs
+2023-02-04 20:29:40 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:29:40 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse) with 100 runs
+2023-02-04 20:29:42 INFO  TimeLogger - Raw time per run (mSec):  21.03
+2023-02-04 20:29:42 INFO  Benchmark_Timer - Begin run: Insertion Sort (Random) with 100 runs
+2023-02-04 20:29:47 INFO  TimeLogger - Raw time per run (mSec):  42.81
+2023-02-04 20:29:47 INFO  Benchmark_Timer - Begin run: Insertion Sort (Partially) with 100 runs
+2023-02-04 20:29:51 INFO  TimeLogger - Raw time per run (mSec):  32.38
+2023-02-04 20:29:51 INFO  Benchmark_Timer - Begin run: Insertion Sort (Sorted) with 100 runs
+2023-02-04 20:29:51 INFO  TimeLogger - Raw time per run (mSec):  .04
+2023-02-04 20:29:51 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse) with 100 runs
+2023-02-04 20:30:00 INFO  TimeLogger - Raw time per run (mSec):  85.18
+2023-02-04 20:30:00 INFO  Benchmark_Timer - Begin run: Insertion Sort (Random) with 100 runs
+2023-02-04 20:30:19 INFO  TimeLogger - Raw time per run (mSec):  173.16
+2023-02-04 20:30:19 INFO  Benchmark_Timer - Begin run: Insertion Sort (Partially) with 100 runs
+2023-02-04 20:30:33 INFO  TimeLogger - Raw time per run (mSec):  130.00
+2023-02-04 20:30:33 INFO  Benchmark_Timer - Begin run: Insertion Sort (Sorted) with 100 runs
+2023-02-04 20:30:33 INFO  TimeLogger - Raw time per run (mSec):  .04
+2023-02-04 20:30:33 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse) with 100 runs
+2023-02-04 20:31:11 INFO  TimeLogger - Raw time per run (mSec):  344.63
+2023-02-04 20:32:49 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:32:53 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:32:57 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:33:00 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:33:03 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:33:06 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:33:10 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:33:14 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:33:18 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:33:58 INFO  Benchmark_Timer - Begin run: Insertion Sort Random with 100 runs
+2023-02-04 20:33:58 INFO  TimeLogger - Raw time per run (mSec):  .18
+2023-02-04 20:33:58 INFO  Benchmark_Timer - Begin run: Insertion Sort Ordered with 100 runs
+2023-02-04 20:33:58 INFO  TimeLogger - Raw time per run (mSec):  .12
+2023-02-04 20:33:58 INFO  Benchmark_Timer - Begin run: Insertion Sort Partially-ordered with 100 runs
+2023-02-04 20:33:58 INFO  TimeLogger - Raw time per run (mSec):  .33
+2023-02-04 20:33:58 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse-ordered) with 100 runs
+2023-02-04 20:33:58 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:33:58 INFO  Benchmark_Timer - Begin run: Insertion Sort Random with 100 runs
+2023-02-04 20:33:58 INFO  TimeLogger - Raw time per run (mSec):  .65
+2023-02-04 20:33:58 INFO  Benchmark_Timer - Begin run: Insertion Sort Ordered with 100 runs
+2023-02-04 20:33:58 INFO  TimeLogger - Raw time per run (mSec):  .50
+2023-02-04 20:33:58 INFO  Benchmark_Timer - Begin run: Insertion Sort Partially-ordered with 100 runs
+2023-02-04 20:33:58 INFO  TimeLogger - Raw time per run (mSec):  1.33
+2023-02-04 20:33:58 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse-ordered) with 100 runs
+2023-02-04 20:33:58 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:33:58 INFO  Benchmark_Timer - Begin run: Insertion Sort Random with 100 runs
+2023-02-04 20:33:59 INFO  TimeLogger - Raw time per run (mSec):  2.57
+2023-02-04 20:33:59 INFO  Benchmark_Timer - Begin run: Insertion Sort Ordered with 100 runs
+2023-02-04 20:33:59 INFO  TimeLogger - Raw time per run (mSec):  1.98
+2023-02-04 20:33:59 INFO  Benchmark_Timer - Begin run: Insertion Sort Partially-ordered with 100 runs
+2023-02-04 20:33:59 INFO  TimeLogger - Raw time per run (mSec):  5.28
+2023-02-04 20:33:59 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse-ordered) with 100 runs
+2023-02-04 20:33:59 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:33:59 INFO  Benchmark_Timer - Begin run: Insertion Sort Random with 100 runs
+2023-02-04 20:34:00 INFO  TimeLogger - Raw time per run (mSec):  10.32
+2023-02-04 20:34:00 INFO  Benchmark_Timer - Begin run: Insertion Sort Ordered with 100 runs
+2023-02-04 20:34:01 INFO  TimeLogger - Raw time per run (mSec):  8.07
+2023-02-04 20:34:01 INFO  Benchmark_Timer - Begin run: Insertion Sort Partially-ordered with 100 runs
+2023-02-04 20:34:04 INFO  TimeLogger - Raw time per run (mSec):  21.03
+2023-02-04 20:34:04 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse-ordered) with 100 runs
+2023-02-04 20:34:04 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:34:04 INFO  Benchmark_Timer - Begin run: Insertion Sort Random with 100 runs
+2023-02-04 20:34:08 INFO  TimeLogger - Raw time per run (mSec):  42.44
+2023-02-04 20:34:08 INFO  Benchmark_Timer - Begin run: Insertion Sort Ordered with 100 runs
+2023-02-04 20:34:12 INFO  TimeLogger - Raw time per run (mSec):  32.48
+2023-02-04 20:34:12 INFO  Benchmark_Timer - Begin run: Insertion Sort Partially-ordered with 100 runs
+2023-02-04 20:34:21 INFO  TimeLogger - Raw time per run (mSec):  85.90
+2023-02-04 20:34:21 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse-ordered) with 100 runs
+2023-02-04 20:34:21 INFO  TimeLogger - Raw time per run (mSec):  .02
+2023-02-04 20:34:21 INFO  Benchmark_Timer - Begin run: Insertion Sort Random with 100 runs
+2023-02-04 20:34:40 INFO  TimeLogger - Raw time per run (mSec):  172.34
+2023-02-04 20:34:40 INFO  Benchmark_Timer - Begin run: Insertion Sort Ordered with 100 runs
+2023-02-04 20:34:55 INFO  TimeLogger - Raw time per run (mSec):  129.62
+2023-02-04 20:34:55 INFO  Benchmark_Timer - Begin run: Insertion Sort Partially-ordered with 100 runs
+2023-02-04 20:35:33 INFO  TimeLogger - Raw time per run (mSec):  344.79
+2023-02-04 20:35:33 INFO  Benchmark_Timer - Begin run: Insertion Sort (Reverse-ordered) with 100 runs
+2023-02-04 20:35:33 INFO  TimeLogger - Raw time per run (mSec):  .05
+2023-02-04 20:40:24 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:40:24 INFO  TimeLogger - Raw time per run (mSec):  .05
+2023-02-04 20:40:24 INFO  Benchmark_Timer - Begin run: Sort: Partial-Ordered with 100 runs
+2023-02-04 20:40:24 INFO  TimeLogger - Raw time per run (mSec):  .03
+2023-02-04 20:40:24 INFO  Benchmark_Timer - Begin run: Sort: Random-Ordered with 100 runs
+2023-02-04 20:40:24 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:40:24 INFO  Benchmark_Timer - Begin run: Sort: Reverse-Ordered with 100 runs
+2023-02-04 20:40:24 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:40:24 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:40:24 INFO  TimeLogger - Raw time per run (mSec):  .02
+2023-02-04 20:40:24 INFO  Benchmark_Timer - Begin run: Sort: Partial-Ordered with 100 runs
+2023-02-04 20:40:24 INFO  TimeLogger - Raw time per run (mSec):  .05
+2023-02-04 20:40:24 INFO  Benchmark_Timer - Begin run: Sort: Random-Ordered with 100 runs
+2023-02-04 20:40:24 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:40:24 INFO  Benchmark_Timer - Begin run: Sort: Reverse-Ordered with 100 runs
+2023-02-04 20:40:24 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:40:24 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:40:24 INFO  TimeLogger - Raw time per run (mSec):  .10
+2023-02-04 20:40:24 INFO  Benchmark_Timer - Begin run: Sort: Partial-Ordered with 100 runs
+2023-02-04 20:40:24 INFO  TimeLogger - Raw time per run (mSec):  .19
+2023-02-04 20:40:24 INFO  Benchmark_Timer - Begin run: Sort: Random-Ordered with 100 runs
+2023-02-04 20:40:24 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:40:24 INFO  Benchmark_Timer - Begin run: Sort: Reverse-Ordered with 100 runs
+2023-02-04 20:40:24 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:40:24 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:40:24 INFO  TimeLogger - Raw time per run (mSec):  .41
+2023-02-04 20:40:24 INFO  Benchmark_Timer - Begin run: Sort: Partial-Ordered with 100 runs
+2023-02-04 20:40:24 INFO  TimeLogger - Raw time per run (mSec):  .81
+2023-02-04 20:40:24 INFO  Benchmark_Timer - Begin run: Sort: Random-Ordered with 100 runs
+2023-02-04 20:40:24 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:40:24 INFO  Benchmark_Timer - Begin run: Sort: Reverse-Ordered with 100 runs
+2023-02-04 20:40:24 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:40:24 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:40:24 INFO  TimeLogger - Raw time per run (mSec):  1.67
+2023-02-04 20:40:24 INFO  Benchmark_Timer - Begin run: Sort: Partial-Ordered with 100 runs
+2023-02-04 20:40:24 INFO  TimeLogger - Raw time per run (mSec):  3.37
+2023-02-04 20:40:24 INFO  Benchmark_Timer - Begin run: Sort: Random-Ordered with 100 runs
+2023-02-04 20:40:24 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:40:24 INFO  Benchmark_Timer - Begin run: Sort: Reverse-Ordered with 100 runs
+2023-02-04 20:40:24 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:40:24 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:40:25 INFO  TimeLogger - Raw time per run (mSec):  6.62
+2023-02-04 20:40:25 INFO  Benchmark_Timer - Begin run: Sort: Partial-Ordered with 100 runs
+2023-02-04 20:40:27 INFO  TimeLogger - Raw time per run (mSec):  13.64
+2023-02-04 20:40:27 INFO  Benchmark_Timer - Begin run: Sort: Random-Ordered with 100 runs
+2023-02-04 20:40:27 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:40:27 INFO  Benchmark_Timer - Begin run: Sort: Reverse-Ordered with 100 runs
+2023-02-04 20:40:27 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:40:27 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:40:30 INFO  TimeLogger - Raw time per run (mSec):  27.58
+2023-02-04 20:40:30 INFO  Benchmark_Timer - Begin run: Sort: Partial-Ordered with 100 runs
+2023-02-04 20:40:35 INFO  TimeLogger - Raw time per run (mSec):  53.94
+2023-02-04 20:40:35 INFO  Benchmark_Timer - Begin run: Sort: Random-Ordered with 100 runs
+2023-02-04 20:40:35 INFO  TimeLogger - Raw time per run (mSec):  .01
+2023-02-04 20:40:35 INFO  Benchmark_Timer - Begin run: Sort: Reverse-Ordered with 100 runs
+2023-02-04 20:40:35 INFO  TimeLogger - Raw time per run (mSec):  .01
+2023-02-04 20:41:21 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:41:21 INFO  TimeLogger - Raw time per run (mSec):  .19
+2023-02-04 20:41:21 INFO  Benchmark_Timer - Begin run: Sort: Partial-Ordered with 100 runs
+2023-02-04 20:41:21 INFO  TimeLogger - Raw time per run (mSec):  .33
+2023-02-04 20:41:21 INFO  Benchmark_Timer - Begin run: Sort: Random-Ordered with 100 runs
+2023-02-04 20:41:21 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:41:21 INFO  Benchmark_Timer - Begin run: Sort: Reverse-Ordered with 100 runs
+2023-02-04 20:41:21 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:41:21 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:41:21 INFO  TimeLogger - Raw time per run (mSec):  .66
+2023-02-04 20:41:21 INFO  Benchmark_Timer - Begin run: Sort: Partial-Ordered with 100 runs
+2023-02-04 20:41:21 INFO  TimeLogger - Raw time per run (mSec):  1.33
+2023-02-04 20:41:21 INFO  Benchmark_Timer - Begin run: Sort: Random-Ordered with 100 runs
+2023-02-04 20:41:21 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:41:21 INFO  Benchmark_Timer - Begin run: Sort: Reverse-Ordered with 100 runs
+2023-02-04 20:41:21 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:41:21 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:41:22 INFO  TimeLogger - Raw time per run (mSec):  2.57
+2023-02-04 20:41:22 INFO  Benchmark_Timer - Begin run: Sort: Partial-Ordered with 100 runs
+2023-02-04 20:41:22 INFO  TimeLogger - Raw time per run (mSec):  5.30
+2023-02-04 20:41:22 INFO  Benchmark_Timer - Begin run: Sort: Random-Ordered with 100 runs
+2023-02-04 20:41:22 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:41:22 INFO  Benchmark_Timer - Begin run: Sort: Reverse-Ordered with 100 runs
+2023-02-04 20:41:22 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:41:22 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:41:23 INFO  TimeLogger - Raw time per run (mSec):  10.36
+2023-02-04 20:41:23 INFO  Benchmark_Timer - Begin run: Sort: Partial-Ordered with 100 runs
+2023-02-04 20:41:26 INFO  TimeLogger - Raw time per run (mSec):  21.08
+2023-02-04 20:41:26 INFO  Benchmark_Timer - Begin run: Sort: Random-Ordered with 100 runs
+2023-02-04 20:41:26 INFO  TimeLogger - Raw time per run (mSec):  .01
+2023-02-04 20:41:26 INFO  Benchmark_Timer - Begin run: Sort: Reverse-Ordered with 100 runs
+2023-02-04 20:41:26 INFO  TimeLogger - Raw time per run (mSec):  .01
+2023-02-04 20:41:26 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:41:30 INFO  TimeLogger - Raw time per run (mSec):  41.98
+2023-02-04 20:41:30 INFO  Benchmark_Timer - Begin run: Sort: Partial-Ordered with 100 runs
+2023-02-04 20:41:40 INFO  TimeLogger - Raw time per run (mSec):  86.94
+2023-02-04 20:41:40 INFO  Benchmark_Timer - Begin run: Sort: Random-Ordered with 100 runs
+2023-02-04 20:41:40 INFO  TimeLogger - Raw time per run (mSec):  .01
+2023-02-04 20:41:40 INFO  Benchmark_Timer - Begin run: Sort: Reverse-Ordered with 100 runs
+2023-02-04 20:41:40 INFO  TimeLogger - Raw time per run (mSec):  .01
+2023-02-04 20:41:40 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:41:58 INFO  TimeLogger - Raw time per run (mSec):  170.68
+2023-02-04 20:41:58 INFO  Benchmark_Timer - Begin run: Sort: Partial-Ordered with 100 runs
+2023-02-04 20:42:36 INFO  TimeLogger - Raw time per run (mSec):  343.60
+2023-02-04 20:42:36 INFO  Benchmark_Timer - Begin run: Sort: Random-Ordered with 100 runs
+2023-02-04 20:42:36 INFO  TimeLogger - Raw time per run (mSec):  .03
+2023-02-04 20:42:36 INFO  Benchmark_Timer - Begin run: Sort: Reverse-Ordered with 100 runs
+2023-02-04 20:42:36 INFO  TimeLogger - Raw time per run (mSec):  .05
+2023-02-04 20:43:11 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 20:43:11 INFO  TimeLogger - Raw time per run (mSec):  .05
+2023-02-04 20:43:11 INFO  Benchmark_Timer - Begin run: Sort: (Partially) with 100 runs
+2023-02-04 20:43:11 INFO  TimeLogger - Raw time per run (mSec):  .01
+2023-02-04 20:43:11 INFO  Benchmark_Timer - Begin run: Sort: (Sorted) with 100 runs
+2023-02-04 20:43:11 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:43:11 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 20:43:11 INFO  TimeLogger - Raw time per run (mSec):  .04
+2023-02-04 20:43:11 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 20:43:11 INFO  TimeLogger - Raw time per run (mSec):  .03
+2023-02-04 20:43:11 INFO  Benchmark_Timer - Begin run: Sort: (Partially) with 100 runs
+2023-02-04 20:43:11 INFO  TimeLogger - Raw time per run (mSec):  .01
+2023-02-04 20:43:11 INFO  Benchmark_Timer - Begin run: Sort: (Sorted) with 100 runs
+2023-02-04 20:43:11 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:43:11 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 20:43:11 INFO  TimeLogger - Raw time per run (mSec):  .05
+2023-02-04 20:43:11 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 20:43:11 INFO  TimeLogger - Raw time per run (mSec):  .10
+2023-02-04 20:43:11 INFO  Benchmark_Timer - Begin run: Sort: (Partially) with 100 runs
+2023-02-04 20:43:11 INFO  TimeLogger - Raw time per run (mSec):  .07
+2023-02-04 20:43:11 INFO  Benchmark_Timer - Begin run: Sort: (Sorted) with 100 runs
+2023-02-04 20:43:11 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:43:11 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 20:43:11 INFO  TimeLogger - Raw time per run (mSec):  .21
+2023-02-04 20:43:11 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 20:43:11 INFO  TimeLogger - Raw time per run (mSec):  .39
+2023-02-04 20:43:11 INFO  Benchmark_Timer - Begin run: Sort: (Partially) with 100 runs
+2023-02-04 20:43:11 INFO  TimeLogger - Raw time per run (mSec):  .29
+2023-02-04 20:43:11 INFO  Benchmark_Timer - Begin run: Sort: (Sorted) with 100 runs
+2023-02-04 20:43:11 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:43:11 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 20:43:11 INFO  TimeLogger - Raw time per run (mSec):  .85
+2023-02-04 20:44:58 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:44:58 INFO  TimeLogger - Raw time per run (mSec):  .07
+2023-02-04 20:44:58 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:44:58 INFO  TimeLogger - Raw time per run (mSec):  .02
+2023-02-04 20:44:58 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:44:58 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:44:58 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:44:58 INFO  TimeLogger - Raw time per run (mSec):  .05
+2023-02-04 20:44:58 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:44:58 INFO  TimeLogger - Raw time per run (mSec):  .10
+2023-02-04 20:44:58 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:44:58 INFO  TimeLogger - Raw time per run (mSec):  .07
+2023-02-04 20:44:58 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:44:58 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:44:58 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:44:58 INFO  TimeLogger - Raw time per run (mSec):  .19
+2023-02-04 20:44:58 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:44:58 INFO  TimeLogger - Raw time per run (mSec):  .47
+2023-02-04 20:44:58 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:44:58 INFO  TimeLogger - Raw time per run (mSec):  .35
+2023-02-04 20:44:58 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:44:58 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:44:58 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:44:58 INFO  TimeLogger - Raw time per run (mSec):  .85
+2023-02-04 20:44:58 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:44:58 INFO  TimeLogger - Raw time per run (mSec):  1.59
+2023-02-04 20:44:58 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:44:59 INFO  TimeLogger - Raw time per run (mSec):  1.27
+2023-02-04 20:44:59 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:44:59 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:44:59 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:44:59 INFO  TimeLogger - Raw time per run (mSec):  3.43
+2023-02-04 20:44:59 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:45:00 INFO  TimeLogger - Raw time per run (mSec):  6.62
+2023-02-04 20:45:00 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:45:00 INFO  TimeLogger - Raw time per run (mSec):  5.11
+2023-02-04 20:45:00 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:45:00 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:45:00 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:45:02 INFO  TimeLogger - Raw time per run (mSec):  13.73
+2023-02-04 20:45:02 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:45:05 INFO  TimeLogger - Raw time per run (mSec):  27.74
+2023-02-04 20:45:05 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:45:07 INFO  TimeLogger - Raw time per run (mSec):  20.64
+2023-02-04 20:45:07 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:45:07 INFO  TimeLogger - Raw time per run (mSec):  .01
+2023-02-04 20:45:07 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:45:13 INFO  TimeLogger - Raw time per run (mSec):  53.80
+2023-02-04 20:45:13 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:45:25 INFO  TimeLogger - Raw time per run (mSec):  109.94
+2023-02-04 20:45:25 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:45:34 INFO  TimeLogger - Raw time per run (mSec):  82.86
+2023-02-04 20:45:34 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:45:34 INFO  TimeLogger - Raw time per run (mSec):  .02
+2023-02-04 20:45:34 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:45:48 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:45:52 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:45:56 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:45:59 INFO  TimeLogger - Raw time per run (mSec):  221.76
+2023-02-04 20:45:59 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:46:03 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:46:07 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:46:10 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:46:14 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:46:18 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:46:22 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:46:26 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:46:31 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:46:35 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:46:38 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:47:10 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:47:10 INFO  TimeLogger - Raw time per run (mSec):  .07
+2023-02-04 20:47:10 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:47:10 INFO  TimeLogger - Raw time per run (mSec):  .02
+2023-02-04 20:47:10 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:47:10 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:47:10 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:47:10 INFO  TimeLogger - Raw time per run (mSec):  .05
+2023-02-04 20:47:10 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:47:10 INFO  TimeLogger - Raw time per run (mSec):  .10
+2023-02-04 20:47:10 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:47:10 INFO  TimeLogger - Raw time per run (mSec):  .08
+2023-02-04 20:47:10 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:47:10 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:47:10 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:47:10 INFO  TimeLogger - Raw time per run (mSec):  .19
+2023-02-04 20:47:10 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:47:10 INFO  TimeLogger - Raw time per run (mSec):  .44
+2023-02-04 20:47:10 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:47:10 INFO  TimeLogger - Raw time per run (mSec):  .33
+2023-02-04 20:47:10 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:47:10 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:47:10 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:47:11 INFO  TimeLogger - Raw time per run (mSec):  .87
+2023-02-04 20:47:11 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:47:11 INFO  TimeLogger - Raw time per run (mSec):  1.63
+2023-02-04 20:47:11 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:47:11 INFO  TimeLogger - Raw time per run (mSec):  1.27
+2023-02-04 20:47:11 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:47:11 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:47:11 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:47:11 INFO  TimeLogger - Raw time per run (mSec):  3.43
+2023-02-04 20:47:11 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:47:12 INFO  TimeLogger - Raw time per run (mSec):  6.61
+2023-02-04 20:47:12 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:47:13 INFO  TimeLogger - Raw time per run (mSec):  5.05
+2023-02-04 20:47:13 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:47:13 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:47:13 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:47:14 INFO  TimeLogger - Raw time per run (mSec):  13.72
+2023-02-04 20:47:14 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:47:17 INFO  TimeLogger - Raw time per run (mSec):  26.85
+2023-02-04 20:47:17 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:47:19 INFO  TimeLogger - Raw time per run (mSec):  20.14
+2023-02-04 20:47:19 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:47:19 INFO  TimeLogger - Raw time per run (mSec):  .01
+2023-02-04 20:47:19 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:47:25 INFO  TimeLogger - Raw time per run (mSec):  55.55
+2023-02-04 20:47:25 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:47:33 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:47:33 INFO  TimeLogger - Raw time per run (mSec):  .08
+2023-02-04 20:47:33 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:47:33 INFO  TimeLogger - Raw time per run (mSec):  .02
+2023-02-04 20:47:33 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:47:33 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:47:33 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:47:33 INFO  TimeLogger - Raw time per run (mSec):  .05
+2023-02-04 20:47:33 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:47:33 INFO  TimeLogger - Raw time per run (mSec):  .10
+2023-02-04 20:47:33 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:47:33 INFO  TimeLogger - Raw time per run (mSec):  .07
+2023-02-04 20:47:33 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:47:33 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:47:33 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:47:33 INFO  TimeLogger - Raw time per run (mSec):  .20
+2023-02-04 20:47:33 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:47:33 INFO  TimeLogger - Raw time per run (mSec):  .45
+2023-02-04 20:47:33 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:47:33 INFO  TimeLogger - Raw time per run (mSec):  .34
+2023-02-04 20:47:33 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:47:33 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:47:33 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:47:33 INFO  TimeLogger - Raw time per run (mSec):  .93
+2023-02-04 20:47:33 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:47:33 INFO  TimeLogger - Raw time per run (mSec):  1.65
+2023-02-04 20:47:33 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:47:33 INFO  TimeLogger - Raw time per run (mSec):  1.31
+2023-02-04 20:47:33 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:47:33 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:47:33 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:47:33 INFO  TimeLogger - Raw time per run (mSec):  3.48
+2023-02-04 20:47:33 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:47:34 INFO  TimeLogger - Raw time per run (mSec):  6.81
+2023-02-04 20:47:34 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:47:35 INFO  TimeLogger - Raw time per run (mSec):  5.27
+2023-02-04 20:47:35 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:47:35 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:47:35 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:47:36 INFO  TimeLogger - Raw time per run (mSec):  13.92
+2023-02-04 20:47:36 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:47:38 INFO  TimeLogger - Raw time per run (mSec):  110.97
+2023-02-04 20:47:38 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:47:39 INFO  TimeLogger - Raw time per run (mSec):  27.69
+2023-02-04 20:47:39 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:47:42 INFO  TimeLogger - Raw time per run (mSec):  20.89
+2023-02-04 20:47:42 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:47:42 INFO  TimeLogger - Raw time per run (mSec):  .02
+2023-02-04 20:47:42 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:47:47 INFO  TimeLogger - Raw time per run (mSec):  83.39
+2023-02-04 20:47:47 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:47:47 INFO  TimeLogger - Raw time per run (mSec):  .03
+2023-02-04 20:47:47 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:47:48 INFO  TimeLogger - Raw time per run (mSec):  56.56
+2023-02-04 20:47:48 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:47:57 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:47:57 INFO  TimeLogger - Raw time per run (mSec):  .05
+2023-02-04 20:47:57 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:47:57 INFO  TimeLogger - Raw time per run (mSec):  .01
+2023-02-04 20:47:57 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:47:57 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:47:57 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:47:57 INFO  TimeLogger - Raw time per run (mSec):  .03
+2023-02-04 20:47:57 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:47:57 INFO  TimeLogger - Raw time per run (mSec):  .02
+2023-02-04 20:47:57 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:47:57 INFO  TimeLogger - Raw time per run (mSec):  .02
+2023-02-04 20:47:57 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:47:57 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:47:57 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:47:57 INFO  TimeLogger - Raw time per run (mSec):  .05
+2023-02-04 20:47:57 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:47:58 INFO  TimeLogger - Raw time per run (mSec):  .11
+2023-02-04 20:47:58 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:47:58 INFO  TimeLogger - Raw time per run (mSec):  .08
+2023-02-04 20:47:58 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:47:58 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:47:58 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:47:58 INFO  TimeLogger - Raw time per run (mSec):  .24
+2023-02-04 20:47:58 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:47:58 INFO  TimeLogger - Raw time per run (mSec):  .42
+2023-02-04 20:47:58 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:47:58 INFO  TimeLogger - Raw time per run (mSec):  .32
+2023-02-04 20:47:58 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:47:58 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:47:58 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:47:58 INFO  TimeLogger - Raw time per run (mSec):  .99
+2023-02-04 20:47:58 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:47:58 INFO  TimeLogger - Raw time per run (mSec):  1.83
+2023-02-04 20:47:58 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:47:58 INFO  TimeLogger - Raw time per run (mSec):  1.38
+2023-02-04 20:47:58 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:47:58 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:47:58 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:47:59 INFO  TimeLogger - Raw time per run (mSec):  3.76
+2023-02-04 20:47:59 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:47:59 INFO  TimeLogger - Raw time per run (mSec):  7.51
+2023-02-04 20:47:59 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:48:00 INFO  TimeLogger - Raw time per run (mSec):  5.83
+2023-02-04 20:48:00 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:48:00 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:48:00 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:48:01 INFO  TimeLogger - Raw time per run (mSec):  115.32
+2023-02-04 20:48:01 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:48:02 INFO  TimeLogger - Raw time per run (mSec):  15.36
+2023-02-04 20:48:02 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:48:05 INFO  TimeLogger - Raw time per run (mSec):  30.61
+2023-02-04 20:48:05 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:48:08 INFO  TimeLogger - Raw time per run (mSec):  23.38
+2023-02-04 20:48:08 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:48:08 INFO  TimeLogger - Raw time per run (mSec):  .01
+2023-02-04 20:48:08 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:48:11 INFO  TimeLogger - Raw time per run (mSec):  91.41
+2023-02-04 20:48:11 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:48:11 INFO  TimeLogger - Raw time per run (mSec):  .03
+2023-02-04 20:48:11 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:48:13 INFO  TimeLogger - Raw time per run (mSec):  234.53
+2023-02-04 20:48:14 INFO  TimeLogger - Raw time per run (mSec):  62.15
+2023-02-04 20:48:14 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:48:28 INFO  TimeLogger - Raw time per run (mSec):  120.36
+2023-02-04 20:48:28 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:48:36 INFO  TimeLogger - Raw time per run (mSec):  233.39
+2023-02-04 20:48:38 INFO  TimeLogger - Raw time per run (mSec):  90.81
+2023-02-04 20:48:38 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:48:38 INFO  TimeLogger - Raw time per run (mSec):  .03
+2023-02-04 20:48:38 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:48:51 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:48:51 INFO  TimeLogger - Raw time per run (mSec):  .13
+2023-02-04 20:48:51 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:48:51 INFO  TimeLogger - Raw time per run (mSec):  .08
+2023-02-04 20:48:51 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:48:51 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:48:51 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:48:51 INFO  TimeLogger - Raw time per run (mSec):  .22
+2023-02-04 20:48:51 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:48:51 INFO  TimeLogger - Raw time per run (mSec):  .39
+2023-02-04 20:48:51 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:48:51 INFO  TimeLogger - Raw time per run (mSec):  .32
+2023-02-04 20:48:51 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:48:51 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:48:51 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:48:51 INFO  TimeLogger - Raw time per run (mSec):  .95
+2023-02-04 20:48:51 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:48:51 INFO  TimeLogger - Raw time per run (mSec):  1.74
+2023-02-04 20:48:51 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:48:51 INFO  TimeLogger - Raw time per run (mSec):  1.35
+2023-02-04 20:48:51 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:48:51 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:48:51 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:48:52 INFO  TimeLogger - Raw time per run (mSec):  3.63
+2023-02-04 20:48:52 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:48:53 INFO  TimeLogger - Raw time per run (mSec):  7.66
+2023-02-04 20:48:53 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:48:53 INFO  TimeLogger - Raw time per run (mSec):  5.30
+2023-02-04 20:48:53 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:48:53 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:48:53 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:48:55 INFO  TimeLogger - Raw time per run (mSec):  16.59
+2023-02-04 20:48:55 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:48:58 INFO  TimeLogger - Raw time per run (mSec):  29.86
+2023-02-04 20:48:58 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:49:01 INFO  TimeLogger - Raw time per run (mSec):  20.93
+2023-02-04 20:49:01 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:49:01 INFO  TimeLogger - Raw time per run (mSec):  .06
+2023-02-04 20:49:01 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:49:04 INFO  TimeLogger - Raw time per run (mSec):  238.46
+2023-02-04 20:49:07 INFO  TimeLogger - Raw time per run (mSec):  57.90
+2023-02-04 20:49:07 INFO  Benchmark_Timer - Begin run: Sort: Random with 100 runs
+2023-02-04 20:49:19 INFO  TimeLogger - Raw time per run (mSec):  110.83
+2023-02-04 20:49:19 INFO  Benchmark_Timer - Begin run: Sort: Partially-ordered with 100 runs
+2023-02-04 20:49:28 INFO  TimeLogger - Raw time per run (mSec):  83.33
+2023-02-04 20:49:28 INFO  Benchmark_Timer - Begin run: Sort: Ordered with 100 runs
+2023-02-04 20:49:28 INFO  TimeLogger - Raw time per run (mSec):  .03
+2023-02-04 20:49:28 INFO  Benchmark_Timer - Begin run: Sort: Reverse-ordered with 100 runs
+2023-02-04 20:49:53 INFO  TimeLogger - Raw time per run (mSec):  220.93
+2023-02-04 20:50:52 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 20:50:52 INFO  TimeLogger - Raw time per run (mSec):  .05
+2023-02-04 20:50:52 INFO  Benchmark_Timer - Begin run: Sort: (Partially) with 100 runs
+2023-02-04 20:50:52 INFO  TimeLogger - Raw time per run (mSec):  .01
+2023-02-04 20:50:52 INFO  Benchmark_Timer - Begin run: Sort: (Sorted) with 100 runs
+2023-02-04 20:50:52 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:50:52 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 20:50:52 INFO  TimeLogger - Raw time per run (mSec):  .03
+2023-02-04 20:50:52 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 20:50:52 INFO  TimeLogger - Raw time per run (mSec):  .02
+2023-02-04 20:50:52 INFO  Benchmark_Timer - Begin run: Sort: (Partially) with 100 runs
+2023-02-04 20:50:52 INFO  TimeLogger - Raw time per run (mSec):  .02
+2023-02-04 20:50:52 INFO  Benchmark_Timer - Begin run: Sort: (Sorted) with 100 runs
+2023-02-04 20:50:52 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:50:52 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 20:50:52 INFO  TimeLogger - Raw time per run (mSec):  .05
+2023-02-04 20:50:52 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 20:50:52 INFO  TimeLogger - Raw time per run (mSec):  .10
+2023-02-04 20:50:52 INFO  Benchmark_Timer - Begin run: Sort: (Partially) with 100 runs
+2023-02-04 20:50:52 INFO  TimeLogger - Raw time per run (mSec):  .07
+2023-02-04 20:50:52 INFO  Benchmark_Timer - Begin run: Sort: (Sorted) with 100 runs
+2023-02-04 20:50:52 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:50:52 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 20:50:52 INFO  TimeLogger - Raw time per run (mSec):  .22
+2023-02-04 20:50:52 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 20:50:52 INFO  TimeLogger - Raw time per run (mSec):  .40
+2023-02-04 20:50:52 INFO  Benchmark_Timer - Begin run: Sort: (Partially) with 100 runs
+2023-02-04 20:50:52 INFO  TimeLogger - Raw time per run (mSec):  .30
+2023-02-04 20:50:52 INFO  Benchmark_Timer - Begin run: Sort: (Sorted) with 100 runs
+2023-02-04 20:50:52 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:50:52 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 20:50:52 INFO  TimeLogger - Raw time per run (mSec):  .91
+2023-02-04 20:53:42 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 300 runs
+2023-02-04 20:53:42 INFO  TimeLogger - Raw time per run (mSec):  .03
+2023-02-04 20:53:42 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 300 runs
+2023-02-04 20:53:42 INFO  TimeLogger - Raw time per run (mSec):  .01
+2023-02-04 20:53:42 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 300 runs
+2023-02-04 20:53:42 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:53:42 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 300 runs
+2023-02-04 20:53:42 INFO  TimeLogger - Raw time per run (mSec):  .01
+2023-02-04 20:53:42 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 300 runs
+2023-02-04 20:53:42 INFO  TimeLogger - Raw time per run (mSec):  .03
+2023-02-04 20:53:42 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 300 runs
+2023-02-04 20:53:42 INFO  TimeLogger - Raw time per run (mSec):  .02
+2023-02-04 20:53:42 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 300 runs
+2023-02-04 20:53:42 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:53:42 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 300 runs
+2023-02-04 20:53:42 INFO  TimeLogger - Raw time per run (mSec):  .05
+2023-02-04 20:53:42 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 300 runs
+2023-02-04 20:53:42 INFO  TimeLogger - Raw time per run (mSec):  .10
+2023-02-04 20:53:42 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 300 runs
+2023-02-04 20:53:42 INFO  TimeLogger - Raw time per run (mSec):  .08
+2023-02-04 20:53:42 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 300 runs
+2023-02-04 20:53:42 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:53:42 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 300 runs
+2023-02-04 20:53:42 INFO  TimeLogger - Raw time per run (mSec):  .23
+2023-02-04 20:53:42 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 300 runs
+2023-02-04 20:53:43 INFO  TimeLogger - Raw time per run (mSec):  .44
+2023-02-04 20:53:43 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 300 runs
+2023-02-04 20:53:43 INFO  TimeLogger - Raw time per run (mSec):  .33
+2023-02-04 20:53:43 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 300 runs
+2023-02-04 20:53:43 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 20:53:43 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 300 runs
+2023-02-04 20:53:43 INFO  TimeLogger - Raw time per run (mSec):  .88
+2023-02-04 20:56:04 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:56:08 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:56:12 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:56:16 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:56:20 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:56:26 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:56:29 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:56:34 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:56:49 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:56:55 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:56:58 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:57:03 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:57:08 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:57:13 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:57:19 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:57:22 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:57:29 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:57:33 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:57:37 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:57:42 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:57:47 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:57:51 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:57:56 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:58:01 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:58:04 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:58:07 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:58:12 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:58:22 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:58:25 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:58:29 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:58:34 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:58:39 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:58:48 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 20:58:53 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:00:10 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 300 runs
+2023-02-04 21:00:10 INFO  TimeLogger - Raw time per run (mSec):  .03
+2023-02-04 21:00:10 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 300 runs
+2023-02-04 21:00:10 INFO  TimeLogger - Raw time per run (mSec):  .01
+2023-02-04 21:00:10 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 300 runs
+2023-02-04 21:00:10 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 21:00:10 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 300 runs
+2023-02-04 21:00:10 INFO  TimeLogger - Raw time per run (mSec):  .01
+2023-02-04 21:00:10 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 300 runs
+2023-02-04 21:00:10 INFO  TimeLogger - Raw time per run (mSec):  .02
+2023-02-04 21:00:10 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 300 runs
+2023-02-04 21:00:10 INFO  TimeLogger - Raw time per run (mSec):  .02
+2023-02-04 21:00:10 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 300 runs
+2023-02-04 21:00:10 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 21:00:10 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 300 runs
+2023-02-04 21:00:10 INFO  TimeLogger - Raw time per run (mSec):  .06
+2023-02-04 21:00:10 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 300 runs
+2023-02-04 21:00:10 INFO  TimeLogger - Raw time per run (mSec):  .10
+2023-02-04 21:00:10 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 300 runs
+2023-02-04 21:00:10 INFO  TimeLogger - Raw time per run (mSec):  .09
+2023-02-04 21:00:10 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 300 runs
+2023-02-04 21:00:10 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 21:00:10 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 300 runs
+2023-02-04 21:00:10 INFO  TimeLogger - Raw time per run (mSec):  .23
+2023-02-04 21:00:10 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 300 runs
+2023-02-04 21:00:10 INFO  TimeLogger - Raw time per run (mSec):  .46
+2023-02-04 21:00:10 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 300 runs
+2023-02-04 21:00:10 INFO  TimeLogger - Raw time per run (mSec):  .35
+2023-02-04 21:00:10 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 300 runs
+2023-02-04 21:00:10 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 21:00:10 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 300 runs
+2023-02-04 21:00:11 INFO  TimeLogger - Raw time per run (mSec):  .90
+2023-02-04 21:00:25 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:00:25 INFO  TimeLogger - Raw time per run (mSec):  .05
+2023-02-04 21:00:25 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:00:25 INFO  TimeLogger - Raw time per run (mSec):  .01
+2023-02-04 21:00:25 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:00:25 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 21:00:25 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:00:25 INFO  TimeLogger - Raw time per run (mSec):  .02
+2023-02-04 21:00:25 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:00:25 INFO  TimeLogger - Raw time per run (mSec):  .03
+2023-02-04 21:00:25 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:00:25 INFO  TimeLogger - Raw time per run (mSec):  .02
+2023-02-04 21:00:25 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:00:25 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 21:00:25 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:00:25 INFO  TimeLogger - Raw time per run (mSec):  .05
+2023-02-04 21:00:25 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:00:25 INFO  TimeLogger - Raw time per run (mSec):  .10
+2023-02-04 21:00:25 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:00:25 INFO  TimeLogger - Raw time per run (mSec):  .07
+2023-02-04 21:00:25 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:00:25 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 21:00:25 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:00:25 INFO  TimeLogger - Raw time per run (mSec):  .22
+2023-02-04 21:00:25 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:00:25 INFO  TimeLogger - Raw time per run (mSec):  .37
+2023-02-04 21:00:25 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:00:25 INFO  TimeLogger - Raw time per run (mSec):  .27
+2023-02-04 21:00:25 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:00:25 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 21:00:25 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:00:25 INFO  TimeLogger - Raw time per run (mSec):  .92
+2023-02-04 21:00:44 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:00:44 INFO  TimeLogger - Raw time per run (mSec):  .07
+2023-02-04 21:00:44 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:00:44 INFO  TimeLogger - Raw time per run (mSec):  .01
+2023-02-04 21:00:44 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:00:44 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 21:00:44 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:00:44 INFO  TimeLogger - Raw time per run (mSec):  .05
+2023-02-04 21:00:44 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:00:44 INFO  TimeLogger - Raw time per run (mSec):  .10
+2023-02-04 21:00:44 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:00:44 INFO  TimeLogger - Raw time per run (mSec):  .07
+2023-02-04 21:00:44 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:00:44 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 21:00:44 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:00:44 INFO  TimeLogger - Raw time per run (mSec):  .19
+2023-02-04 21:00:44 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:00:44 INFO  TimeLogger - Raw time per run (mSec):  .43
+2023-02-04 21:00:44 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:00:44 INFO  TimeLogger - Raw time per run (mSec):  .32
+2023-02-04 21:00:44 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:00:44 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 21:00:44 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:00:44 INFO  TimeLogger - Raw time per run (mSec):  .86
+2023-02-04 21:00:44 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:00:44 INFO  TimeLogger - Raw time per run (mSec):  1.59
+2023-02-04 21:00:44 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:00:45 INFO  TimeLogger - Raw time per run (mSec):  1.23
+2023-02-04 21:00:45 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:00:45 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 21:00:45 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:00:45 INFO  TimeLogger - Raw time per run (mSec):  3.32
+2023-02-04 21:00:45 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:00:46 INFO  TimeLogger - Raw time per run (mSec):  6.60
+2023-02-04 21:00:46 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:00:46 INFO  TimeLogger - Raw time per run (mSec):  5.01
+2023-02-04 21:00:46 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:00:46 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 21:00:46 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:00:48 INFO  TimeLogger - Raw time per run (mSec):  13.29
+2023-02-04 21:00:48 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:00:51 INFO  TimeLogger - Raw time per run (mSec):  26.38
+2023-02-04 21:00:51 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:00:53 INFO  TimeLogger - Raw time per run (mSec):  19.36
+2023-02-04 21:00:53 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:00:53 INFO  TimeLogger - Raw time per run (mSec):  .01
+2023-02-04 21:00:53 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:00:58 INFO  TimeLogger - Raw time per run (mSec):  52.81
+2023-02-04 21:00:58 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:01:10 INFO  TimeLogger - Raw time per run (mSec):  107.38
+2023-02-04 21:01:10 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:01:14 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:01:14 INFO  TimeLogger - Raw time per run (mSec):  .13
+2023-02-04 21:01:14 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:01:14 INFO  TimeLogger - Raw time per run (mSec):  .08
+2023-02-04 21:01:14 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:01:14 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 21:01:14 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:01:14 INFO  TimeLogger - Raw time per run (mSec):  .22
+2023-02-04 21:01:14 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:01:14 INFO  TimeLogger - Raw time per run (mSec):  .40
+2023-02-04 21:01:14 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:01:15 INFO  TimeLogger - Raw time per run (mSec):  .33
+2023-02-04 21:01:15 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:01:15 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 21:01:15 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:01:15 INFO  TimeLogger - Raw time per run (mSec):  .90
+2023-02-04 21:01:15 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:01:15 INFO  TimeLogger - Raw time per run (mSec):  1.76
+2023-02-04 21:01:15 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:01:15 INFO  TimeLogger - Raw time per run (mSec):  1.33
+2023-02-04 21:01:15 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:01:15 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 21:01:15 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:01:15 INFO  TimeLogger - Raw time per run (mSec):  3.48
+2023-02-04 21:01:15 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:01:16 INFO  TimeLogger - Raw time per run (mSec):  6.89
+2023-02-04 21:01:16 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:01:17 INFO  TimeLogger - Raw time per run (mSec):  5.20
+2023-02-04 21:01:17 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:01:17 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 21:01:17 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:01:18 INFO  TimeLogger - Raw time per run (mSec):  13.92
+2023-02-04 21:01:18 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:01:19 INFO  TimeLogger - Raw time per run (mSec):  81.89
+2023-02-04 21:01:19 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:01:19 INFO  TimeLogger - Raw time per run (mSec):  .03
+2023-02-04 21:01:19 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:01:21 INFO  TimeLogger - Raw time per run (mSec):  27.55
+2023-02-04 21:01:21 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:01:24 INFO  TimeLogger - Raw time per run (mSec):  20.62
+2023-02-04 21:01:24 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:01:24 INFO  TimeLogger - Raw time per run (mSec):  .01
+2023-02-04 21:01:24 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:01:30 INFO  TimeLogger - Raw time per run (mSec):  55.63
+2023-02-04 21:01:30 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:01:42 INFO  TimeLogger - Raw time per run (mSec):  112.38
+2023-02-04 21:01:42 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:01:43 INFO  TimeLogger - Raw time per run (mSec):  216.84
+2023-02-04 21:01:51 INFO  TimeLogger - Raw time per run (mSec):  82.80
+2023-02-04 21:01:51 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:01:51 INFO  TimeLogger - Raw time per run (mSec):  .03
+2023-02-04 21:01:51 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:02:15 INFO  TimeLogger - Raw time per run (mSec):  220.17
+2023-02-04 21:02:15 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:03:04 INFO  TimeLogger - Raw time per run (mSec):  442.21
+2023-02-04 21:03:04 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:03:41 INFO  TimeLogger - Raw time per run (mSec):  335.44
+2023-02-04 21:03:41 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:03:41 INFO  TimeLogger - Raw time per run (mSec):  .06
+2023-02-04 21:03:41 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:05:18 INFO  TimeLogger - Raw time per run (mSec):  882.23
+2023-02-04 21:07:57 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:08:01 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:08:07 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:08:11 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:08:11 INFO  TimeLogger - Raw time per run (mSec):  .13
+2023-02-04 21:08:11 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:08:11 INFO  TimeLogger - Raw time per run (mSec):  .07
+2023-02-04 21:08:11 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:08:11 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 21:08:11 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:08:11 INFO  TimeLogger - Raw time per run (mSec):  .20
+2023-02-04 21:08:11 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:08:11 INFO  TimeLogger - Raw time per run (mSec):  .38
+2023-02-04 21:08:11 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:08:11 INFO  TimeLogger - Raw time per run (mSec):  .32
+2023-02-04 21:08:11 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:08:11 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 21:08:11 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:08:11 INFO  TimeLogger - Raw time per run (mSec):  .85
+2023-02-04 21:08:11 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:08:12 INFO  TimeLogger - Raw time per run (mSec):  1.68
+2023-02-04 21:08:12 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:08:12 INFO  TimeLogger - Raw time per run (mSec):  1.25
+2023-02-04 21:08:12 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:08:12 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 21:08:12 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:08:12 INFO  TimeLogger - Raw time per run (mSec):  3.31
+2023-02-04 21:08:12 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:08:13 INFO  TimeLogger - Raw time per run (mSec):  6.57
+2023-02-04 21:08:13 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:08:13 INFO  TimeLogger - Raw time per run (mSec):  4.95
+2023-02-04 21:08:13 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:08:13 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 21:08:13 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:08:15 INFO  TimeLogger - Raw time per run (mSec):  13.11
+2023-02-04 21:08:15 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:08:18 INFO  TimeLogger - Raw time per run (mSec):  26.84
+2023-02-04 21:08:18 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:08:20 INFO  TimeLogger - Raw time per run (mSec):  20.04
+2023-02-04 21:08:20 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:08:20 INFO  TimeLogger - Raw time per run (mSec):  .01
+2023-02-04 21:08:20 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:08:26 INFO  TimeLogger - Raw time per run (mSec):  52.96
+2023-02-04 21:08:26 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:08:38 INFO  TimeLogger - Raw time per run (mSec):  106.64
+2023-02-04 21:08:38 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:08:46 INFO  TimeLogger - Raw time per run (mSec):  79.87
+2023-02-04 21:08:46 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:08:46 INFO  TimeLogger - Raw time per run (mSec):  .02
+2023-02-04 21:08:46 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:09:10 INFO  TimeLogger - Raw time per run (mSec):  214.67
+2023-02-04 21:09:10 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:09:57 INFO  TimeLogger - Raw time per run (mSec):  430.76
+2023-02-04 21:09:57 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:10:33 INFO  TimeLogger - Raw time per run (mSec):  320.20
+2023-02-04 21:10:33 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:10:33 INFO  TimeLogger - Raw time per run (mSec):  .06
+2023-02-04 21:10:33 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:12:07 INFO  TimeLogger - Raw time per run (mSec):  855.38
+2023-02-04 21:19:35 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:19:35 INFO  TimeLogger - Raw time per run (mSec):  .08
+2023-02-04 21:19:35 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:19:35 INFO  TimeLogger - Raw time per run (mSec):  .02
+2023-02-04 21:19:35 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:19:35 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 21:19:35 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:19:35 INFO  TimeLogger - Raw time per run (mSec):  .05
+2023-02-04 21:19:35 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:19:36 INFO  TimeLogger - Raw time per run (mSec):  .10
+2023-02-04 21:19:36 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:19:36 INFO  TimeLogger - Raw time per run (mSec):  .07
+2023-02-04 21:19:36 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:19:36 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 21:19:36 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:19:36 INFO  TimeLogger - Raw time per run (mSec):  .20
+2023-02-04 21:19:36 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:19:36 INFO  TimeLogger - Raw time per run (mSec):  .45
+2023-02-04 21:19:36 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:19:36 INFO  TimeLogger - Raw time per run (mSec):  .34
+2023-02-04 21:19:36 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:19:36 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 21:19:36 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:19:36 INFO  TimeLogger - Raw time per run (mSec):  .91
+2023-02-04 21:19:36 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:19:36 INFO  TimeLogger - Raw time per run (mSec):  1.66
+2023-02-04 21:19:36 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:19:36 INFO  TimeLogger - Raw time per run (mSec):  1.32
+2023-02-04 21:19:36 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:19:36 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 21:19:36 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:19:36 INFO  TimeLogger - Raw time per run (mSec):  3.45
+2023-02-04 21:19:36 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:19:37 INFO  TimeLogger - Raw time per run (mSec):  6.80
+2023-02-04 21:19:37 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:19:38 INFO  TimeLogger - Raw time per run (mSec):  5.25
+2023-02-04 21:19:38 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:19:38 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-02-04 21:19:38 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:19:39 INFO  TimeLogger - Raw time per run (mSec):  13.74
+2023-02-04 21:19:39 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:19:42 INFO  TimeLogger - Raw time per run (mSec):  27.01
+2023-02-04 21:19:42 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:19:45 INFO  TimeLogger - Raw time per run (mSec):  20.51
+2023-02-04 21:19:45 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:19:45 INFO  TimeLogger - Raw time per run (mSec):  .01
+2023-02-04 21:19:45 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:19:51 INFO  TimeLogger - Raw time per run (mSec):  55.31
+2023-02-04 21:19:51 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:20:03 INFO  TimeLogger - Raw time per run (mSec):  112.68
+2023-02-04 21:20:03 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:20:12 INFO  TimeLogger - Raw time per run (mSec):  83.86
+2023-02-04 21:20:12 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:20:12 INFO  TimeLogger - Raw time per run (mSec):  .03
+2023-02-04 21:20:12 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:20:37 INFO  TimeLogger - Raw time per run (mSec):  223.07
+2023-02-04 21:20:37 INFO  Benchmark_Timer - Begin run: Sort: (Random) with 100 runs
+2023-02-04 21:21:25 INFO  TimeLogger - Raw time per run (mSec):  441.89
+2023-02-04 21:21:25 INFO  Benchmark_Timer - Begin run: Sort: (Partial) with 100 runs
+2023-02-04 21:22:02 INFO  TimeLogger - Raw time per run (mSec):  332.85
+2023-02-04 21:22:02 INFO  Benchmark_Timer - Begin run: Sort: (Ordered) with 100 runs
+2023-02-04 21:22:02 INFO  TimeLogger - Raw time per run (mSec):  .06
+2023-02-04 21:22:02 INFO  Benchmark_Timer - Begin run: Sort: (Reverse) with 100 runs
+2023-02-04 21:23:40 INFO  TimeLogger - Raw time per run (mSec):  892.22
+2023-02-04 21:25:43 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:25:43 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:25:43 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:25:43 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:25:43 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:25:44 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:25:44 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:25:44 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:25:44 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:25:44 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:25:44 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:25:44 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:25:44 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:25:44 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:25:44 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:25:44 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:25:44 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:25:44 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:25:45 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:25:45 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:25:45 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:25:47 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:25:48 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:25:49 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:25:49 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:25:56 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:26:02 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:26:06 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:26:06 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:26:31 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:26:56 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:27:15 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:27:15 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:28:55 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:29:41 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:29:41 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:29:41 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:29:41 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:29:41 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:29:41 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:29:41 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:29:41 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:29:41 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:29:41 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:29:42 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:29:42 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:29:42 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:29:42 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:29:42 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:29:42 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:29:42 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:29:42 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:29:43 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:29:43 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:29:43 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:29:45 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:29:46 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:29:48 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:29:48 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:29:54 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:30:01 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:30:06 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:30:06 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:30:10 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:30:10 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:30:10 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:30:10 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:30:10 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:30:10 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:30:10 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:30:10 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:30:10 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:30:10 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:30:10 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:30:10 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:30:10 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:30:10 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:30:10 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:30:10 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:30:10 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:30:11 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:30:11 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:30:12 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:30:12 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:30:13 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:30:15 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:30:17 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:30:17 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:30:24 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:30:32 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:30:37 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:30:38 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:30:38 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:30:42 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:31:09 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:31:10 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:31:31 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:31:31 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:31:32 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:31:32 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:31:32 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:31:32 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:31:32 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:31:32 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:31:32 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:31:32 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:31:32 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:31:32 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:31:32 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:31:32 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:31:32 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:31:32 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:31:32 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:31:33 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:31:33 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:31:34 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:31:34 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:31:35 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:31:35 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:31:36 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:31:38 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:31:40 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:31:40 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:31:42 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:31:49 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:31:57 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:32:04 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:32:04 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:32:08 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:32:21 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:32:21 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:32:38 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:33:11 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:33:26 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:33:31 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:33:36 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:33:37 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:33:45 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:33:50 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:35:43 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:35:47 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:35:51 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:36:28 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:36:32 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:36:35 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:37:16 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:37:20 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:37:22 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:37:22 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:37:33 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:37:33 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:37:33 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:37:33 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:37:33 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:37:33 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:37:33 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:37:33 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:37:33 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:37:33 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:37:33 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:37:33 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:37:33 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:37:33 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:37:34 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:37:34 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:37:34 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:37:34 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:37:35 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:37:35 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:37:35 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:37:37 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:37:39 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:37:40 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:37:40 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:37:48 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:37:55 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:37:55 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:37:55 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:37:55 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:37:55 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:37:55 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:37:55 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:37:55 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:37:55 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:37:55 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:37:55 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:37:55 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:37:55 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:37:55 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:37:55 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:37:55 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:37:55 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:37:56 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:37:56 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:37:57 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:37:57 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:37:57 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:37:59 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:38:01 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:38:03 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:38:03 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:38:03 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:38:03 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:38:12 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:38:12 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:38:12 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:38:13 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:38:13 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:38:13 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:38:13 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:38:13 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:38:13 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:38:13 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:38:14 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:38:14 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:38:15 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:38:15 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:38:18 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:38:20 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:38:22 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:38:22 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:38:22 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:38:30 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:38:30 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:38:33 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:38:42 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:38:43 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:38:51 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:38:51 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:39:11 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:39:22 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:39:34 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:39:52 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:39:53 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:40:15 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:40:21 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:40:30 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:40:31 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:40:31 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:40:31 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:40:31 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:40:31 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:40:31 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:40:31 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:40:31 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:40:32 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:40:32 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:40:33 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:40:33 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:40:35 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:40:37 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:40:39 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:40:39 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:40:42 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:40:48 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:40:56 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:41:02 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:41:02 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:41:08 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:41:36 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:42:09 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:42:25 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:42:25 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:42:26 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:42:26 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:42:26 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:42:26 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:42:26 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:42:26 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:42:26 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:42:27 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:42:27 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:42:28 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:42:28 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:42:30 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:42:32 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:42:34 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:42:34 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:42:35 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:42:42 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:42:50 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:42:57 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:42:57 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:43:29 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:43:30 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:43:49 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:43:53 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:43:59 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:44:03 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:44:03 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:44:08 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:44:15 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:44:19 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:44:23 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:44:24 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:44:24 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:44:24 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:44:24 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:44:24 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:44:24 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:44:24 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:44:24 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:44:25 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:44:25 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:44:26 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:44:26 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:44:28 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:44:29 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:44:30 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:44:31 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:44:31 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:44:39 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:44:47 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:44:53 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:44:53 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:45:25 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:45:56 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:46:20 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:46:54 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:49:42 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:52:20 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:52:20 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:52:20 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:52:20 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:52:20 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:52:20 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:52:20 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:52:21 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:52:21 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:52:21 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:52:22 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:52:22 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:52:22 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:52:24 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:52:26 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:52:28 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:52:28 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:52:28 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:52:31 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:52:33 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:52:36 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:52:36 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:52:38 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:52:41 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:52:43 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:52:45 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:52:52 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:52:52 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:53:07 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:53:12 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:53:12 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:53:12 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:53:12 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:53:12 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:53:13 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:53:13 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:53:13 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:53:13 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:53:13 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:53:14 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:53:14 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:53:14 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:53:17 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:53:19 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:53:19 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:53:21 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:53:21 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:53:28 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:53:28 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:53:30 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:53:35 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:53:39 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:53:46 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:53:46 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:54:14 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:54:18 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:54:20 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:54:22 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:54:26 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 21:54:32 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:54:32 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:54:32 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:54:32 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:54:32 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:54:32 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:54:32 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:54:32 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:54:32 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:54:33 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:54:34 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:54:34 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:54:34 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:54:36 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:54:39 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:54:40 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:54:40 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:54:50 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:54:56 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:54:59 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:55:06 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:55:06 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 21:55:24 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 21:55:39 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 21:55:42 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 21:56:14 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 22:01:02 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 22:43:24 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 22:43:24 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 22:43:24 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 22:43:24 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 22:43:24 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 22:43:24 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 22:43:24 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 22:43:24 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 22:43:24 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
+2023-02-04 22:43:24 INFO  Benchmark_Timer - Begin run: Array In Random Order with 100 runs
+2023-02-04 22:43:25 INFO  Benchmark_Timer - Begin run: Array In Partial Order with 100 runs
+2023-02-04 22:43:25 INFO  Benchmark_Timer - Begin run: Array In Order with 100 runs
+2023-02-04 22:43:25 INFO  Benchmark_Timer - Begin run: Array In Reverse Order with 100 runs
