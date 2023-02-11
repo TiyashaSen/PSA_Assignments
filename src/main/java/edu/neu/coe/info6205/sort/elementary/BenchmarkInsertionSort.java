@@ -31,6 +31,7 @@ import edu.neu.coe.info6205.util.Benchmark_Timer;
 		rndmNmArrGen(1600),
 		rndmNmArrGen(3200),
 		rndmNmArrGen(6400),
+		rndmNmArrGen(12800),
 		rndmNmArrGen(12800)
 		
 		);

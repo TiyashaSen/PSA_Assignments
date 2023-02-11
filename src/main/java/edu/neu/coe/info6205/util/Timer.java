@@ -55,22 +55,21 @@ public class Timer {
      * @param postFunction a function which consumes a U and which succeeds the call of function, but which is not timed (may be null).
      * @return the average milliseconds per repetition.
      */
-    public <T, U> double repeat(int n, Supplier<T> supp, Function<T, U> func, UnaryOperator<T> preFunction, Consumer<U> postFunction) {
+    public <T, U> double repeat(int n, Supplier<T> supplier, Function<T, U> function, UnaryOperator<T> preFunction, Consumer<U> postFunction) {
         logger.trace("repeat: with " + n + " runs");
         // FIXME: note that the timer is running when this method is called and should still be running when it returns. by replacing the following code
         pause();
         for (int i = 0; i < n; i++) {
-            T t = supp.get();
-            T t1 = preFunction != null ? preFunction.apply(t) : t;
+            T time = supplier.get();
+            T time1 = preFunction != null ? preFunction.apply(time) : time;
             resume();
-            U u = func.apply(t1);
+            U u = function.apply(time1);
             pauseAndLap();
             if (postFunction != null) postFunction.accept(u);
         }
         final double result = meanLapTime();
         resume();
         return result;
-
         // END 
     }
 
@@ -191,7 +190,6 @@ public class Timer {
     private static long getClock() {
         // FIXME by replacing the following code
     	 return System.nanoTime();
-    	 //return 0;
         // END 
     }
 
