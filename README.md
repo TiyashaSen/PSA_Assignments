@@ -17,3 +17,28 @@ Observation and Evidence:
 The reverse-sorted array requires the longest amount of time to complete the insertion sort algorithm due to the need for numerous number swaps. This correlation is demonstrated in the benchmarking results shown in the observation table. The table displays that, among the various types of arrays, the reverse-sorted array takes the longest to run the insertion sort, followed by the randomly sorted array, which is faster than the reverse-sorted array. The partially sorted array takes less time than the randomly sorted array, and the sorted array takes the shortest amount of time to run the insertion sort. 
 
 Therefore, Ordered < Partially Ordered < Randomly Ordered < Reverse Ordered.  
+
+
+#PSA_Assignment4
+
+Step 1: 
+(a) Implement height-weighted Quick Union with Path Compression. For this, you will flesh out the class UF_HWQUPC. All you have to do is to fill in the sections marked with // TO BE IMPLEMENTED ... // ...END IMPLEMENTATION. 
+
+(b) Check that the unit tests for this class all work. You must show "green" test results in your submission (screenshot is OK).  
+
+Step 2: 
+Using your implementation of UF_HWQUPC, develop a UF ("union-find") client that takes an integer value n from the command line to determine the number of "sites." Then generates random pairs of integers between 0 and n-1, calling connected() to determine if they are connected and union() if not. Loop until all sites are connected then print the number of connections generated. Package your program as a static method count() that takes n as the argument and returns the number of connections; and a main() that takes n from the command line, calls count() and prints the returned value. If you prefer, you can create a main program that doesn't require any input and runs the experiment for a fixed set of n values. Show evidence of your run(s). 
+
+Step 3: 
+Determine the relationship between the number of objects (n) and the number of pairs (m) generated to accomplish this (i.e. to reduce the number of components from n to 1). Justify your conclusion in terms of your observations and what you think might be going on. 
+
+
+Observation and Evidence:
+
+The observation for this relationship would likely be a correlation between the value of n and the number of pairs m needed to reduce the number of components from n to 1. For each sites count n, the weighted quick-union by height 1000 times is done. 
+
+ 
+
+Using the implementation of UF_HWQUPC.java, I created a client class named as UnionFindClient.java accepts an integer N as the number of sites. The client then generates random combinations of integers between 0 and N-1 and checks if they are connected by using the connected() function. If they are not connected, the union() function is called. This process continues until all sites are connected, and the result is the number of connections made. The program has been packaged as a static method called count() and can be invoked in the main() method. 
+
+In the primary function of the program, to ensure efficiency and precision, I established 12 values for the number of sites, “n”, with a range from 100 to 204800. For each n, I computed the results 1000 times and took the average to determine the number of connections required to connect all the sites. The results of my calculations are presented in the images and graph attached in the document.
